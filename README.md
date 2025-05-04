@@ -36,10 +36,10 @@ npm install --prefix server
 - Voorbeeld `.env`:
   ```env
   JWT_SECRET=veranderditwachtwoord
-  ADMIN_PASSWORD=$2b$12$4dm.RI8uGUnpG06hjmFdb.g9A6rTFb3OZiV6mmtatGdAe2WLjfo6G
+  ADMIN_PASSWORD=
   ```
 - Herstart daarna de backend server zodat de nieuwe hash wordt ingeladen.
-- Je kunt nu inloggen met het wachtwoord dat je gehasht hebt (bijvoorbeeld `Kartal23`).
+- Je kunt nu inloggen met het wachtwoord dat je gehasht hebt (bijvoorbeeld ``).
 
 ### 6. CI/CD
 
