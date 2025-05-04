@@ -1,0 +1,14 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="580" height="380" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="300" y="50" font-size="24" font-family="Arial" fill="#0f172a" text-anchor="middle" font-weight="bold">Selecteer de 10 belangrijkste subthema’s</text>
+  <rect x="60" y="80" width="480" height="200" rx="10" fill="#fff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="80" y="110" font-size="16" font-family="Arial" fill="#334155">[ ] Subthema 1</text>
+  <text x="80" y="140" font-size="16" font-family="Arial" fill="#334155">[ ] Subthema 2</text>
+  <text x="80" y="170" font-size="16" font-family="Arial" fill="#334155">[ ] Subthema 3</text>
+  <text x="80" y="200" font-size="16" font-family="Arial" fill="#334155">[ ] ...</text>
+  <text x="80" y="230" font-size="16" font-family="Arial" fill="#334155">[ ] Subthema N</text>
+  <text x="80" y="270" font-size="14" font-family="Arial" fill="#64748b">Nog te selecteren: 4</text>
+  <rect x="400" y="320" width="140" height="40" rx="8" fill="#22c55e" />
+  <text x="470" y="347" font-size="18" font-family="Arial" fill="#fff" text-anchor="middle" font-weight="bold">Afronden</text>
+  <text x="300" y="380" font-size="13" font-family="Arial" fill="#ef4444" text-anchor="middle">Selecteer exact 10 subthema’s om verder te gaan</text>
+</svg>

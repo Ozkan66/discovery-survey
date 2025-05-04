@@ -1,0 +1,23 @@
+<svg width="360" height="400" viewBox="0 0 360 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="360" height="400" rx="16" fill="#f7fafc"/>
+  <text x="20" y="36" font-size="16" fill="#2d3748">Subthema: [naam]</text>
+  <rect x="20" y="50" width="320" height="32" rx="6" fill="#fff" stroke="#bbb"/>
+  <text x="28" y="70" font-size="14" fill="#333">Stelling 1</text>
+  <rect x="20" y="90" width="320" height="24" rx="6" fill="#edf2f7"/>
+  <text x="28" y="107" font-size="12" fill="#666">Likert 1-10</text>
+  <rect x="20" y="120" width="320" height="32" rx="6" fill="#fff" stroke="#bbb"/>
+  <text x="28" y="140" font-size="14" fill="#333">Stelling 2</text>
+  <rect x="20" y="160" width="320" height="24" rx="6" fill="#edf2f7"/>
+  <text x="28" y="177" font-size="12" fill="#666">Likert 1-10</text>
+  <rect x="20" y="200" width="320" height="32" rx="6" fill="#fff" stroke="#bbb"/>
+  <text x="28" y="220" font-size="14" fill="#333">Stelling 3</text>
+  <rect x="20" y="230" width="320" height="24" rx="6" fill="#edf2f7"/>
+  <text x="28" y="247" font-size="12" fill="#666">Likert 1-10</text>
+  <!-- Eén algemeen commentaarveld onderaan -->
+  <rect x="20" y="270" width="320" height="40" rx="6" fill="#fff" stroke="#bbb"/>
+  <text x="28" y="295" font-size="14" fill="#333">[Algemeen commentaarveld]</text>
+  <rect x="70" y="330" width="80" height="28" rx="6" fill="#a0aec0"/>
+  <text x="110" y="350" font-size="14" fill="#fff" text-anchor="middle">Vorige</text>
+  <rect x="200" y="330" width="80" height="28" rx="6" fill="#3182ce"/>
+  <text x="240" y="350" font-size="14" fill="#fff" text-anchor="middle">Volgende</text>
+</svg>

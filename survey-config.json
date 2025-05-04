@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "id": "workload",
+      "title": "Werkdruk",
+      "subthemes": [
+        {
+          "id": "administration",
+          "title": "Administratie",
+          "statements": [
+            "De administratieve last is te hoog.",
+            "Er is onvoldoende ondersteuning bij administratieve taken."
+          ]
+        }
+      ]
+    }
+  ],
+  "likert": {
+    "min": 1,
+    "max": 10,
+    "labels": {
+      "1": "Helemaal oneens",
+      "10": "Helemaal eens"
+    }
+  },
+  "comment_field": true,
+  "order": "fixed"
+}

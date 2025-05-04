@@ -1,0 +1,18 @@
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="580" height="280" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="300" y="70" font-size="32" font-family="Arial" fill="#22c55e" text-anchor="middle" font-weight="bold">Bedankt voor je deelname!</text>
+  <text x="300" y="120" font-size="16" font-family="Arial" fill="#334155" text-anchor="middle">
+    Jouw antwoorden zijn succesvol ontvangen.
+  </text>
+  <text x="300" y="145" font-size="16" font-family="Arial" fill="#334155" text-anchor="middle">
+    Ze worden anoniem verwerkt en dragen bij aan beter beleid.
+  </text>
+  <rect x="200" y="170" width="200" height="30" rx="6" fill="#e0e7ef" />
+  <text x="300" y="190" font-size="13" font-family="Arial" fill="#2563eb" text-anchor="middle">
+    Meer info over het onderzoek
+  </text>
+  <rect x="240" y="220" width="120" height="40" rx="8" fill="#2563eb" />
+  <text x="300" y="247" font-size="18" font-family="Arial" fill="#fff" text-anchor="middle" font-weight="bold">
+    Afronden
+  </text>
+</svg>

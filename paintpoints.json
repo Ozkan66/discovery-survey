@@ -1,0 +1,351 @@
+painpoints = {
+    "Performance Management": {
+        "Evaluatieprocessen en Opvolging": {
+            "Onvoldoende structuur in functionerings- en evaluatiegesprekken": [
+                "Gesprekken worden ad hoc georganiseerd, zonder duidelijke planning.",
+                "Geen gestandaardiseerde sjablonen en beoordelingscriteria per functie.",
+                "Evaluatoren hebben geen overzicht van eerdere functioneringsgesprekken.",
+                "Evaluatieverslagen raken verloren of worden niet goed gedocumenteerd.",
+                "Er is geen duidelijk verschil tussen functioneringsgesprekken en evaluatiegesprekken.",
+                "Functioneringsgesprekken worden niet goed opgevolgd met concrete actiepunten."
+            ],
+            "Geen centrale plek voor evaluatiedocumentatie": [
+                "Functiebeschrijving en evaluatiecriteria zijn versnipperd over verschillende documenten en systemen.",
+                "Medewerkers hebben geen toegang tot hun eigen evaluatieverslagen.",
+                "Personeelsleden ontvangen geen automatische notificaties bij wijzigingen in evaluatiecriteria.",
+                "Directies en HR kunnen moeilijk bijhouden welke personeelsleden geëvalueerd moeten worden."
+            ],
+            "Gebrek aan automatische opvolging": [
+                "Evaluatoren vergeten geplande functionerings- en evaluatiegesprekken.",
+                "Geen automatische herinneringen voor verplichte functioneringsgesprekken.",
+                "Er is geen tracking van afspraken en actiepunten uit functioneringsgesprekken.",
+                "HR en directie kunnen niet controleren of evaluaties consistent worden uitgevoerd binnen de scholengroep."
+            ]
+        },
+        "Transparantie en Beoordelingscriteria": {
+            "Onduidelijkheid over evaluatiecriteria": [
+                "Medewerkers weten niet goed waarop ze beoordeeld worden.",
+                "Evaluatoren gebruiken subjectieve maatstaven zonder eenduidige richtlijnen.",
+                "Er is geen formele koppeling tussen functiebeschrijvingen en evaluatierapporten.",
+                "Functiebeschrijvingen worden zelden geactualiseerd en zijn vaak onvolledig."
+            ],
+            "Geen uniforme evaluatieaanpak binnen een scholengroep": [
+                "Elke school binnen een scholengroep hanteert eigen criteria en aanpak.",
+                "Verschillende evaluatoren interpreteren criteria op verschillende manieren.",
+                "Er is geen benchmark of vergelijking mogelijk tussen scholen en teams."
+            ],
+            "Geen duidelijke bezwaarprocedure bij negatieve evaluaties": [
+                "Personeelsleden weten niet hoe ze in beroep kunnen gaan tegen een negatieve evaluatie.",
+                "Geen automatische melding wanneer een evaluatie bezwaarlijk kan zijn.",
+                "Evaluatoren hebben geen proces om bezwaar correct af te handelen."
+            ]
+        },
+        "Feedback en 360° Evaluatie": {
+            "Gebrek aan een feedbackcultuur": [
+                "Feedback gebeurt vaak enkel top-down en niet vanuit peers of mentoren.",
+                "Medewerkers voelen zich niet betrokken bij hun eigen groei en ontwikkeling.",
+                "Geen mogelijkheid voor zelfreflectie of het actief bijhouden van prestaties."
+            ],
+            "Geen 360° evaluatie": [
+                "Evaluaties zijn eenzijdig en houden geen rekening met feedback van collega's.",
+                "Mentoren kunnen geen objectieve feedback geven op de ontwikkeling van nieuwe medewerkers.",
+                "Leerlingenfeedback wordt niet meegenomen bij de beoordeling van leerkrachten."
+            ],
+            "Feedbackmomenten worden niet geregistreerd": [
+                "Feedback uit informele gesprekken gaat verloren.",
+                "Geen centrale plek waar feedback wordt opgeslagen voor latere evaluaties.",
+                "Evaluatoren kunnen moeilijk trends in prestaties over meerdere jaren detecteren."
+            ]
+        },
+        "Professionele Ontwikkeling en Coaching": {
+            "Evaluatie leidt niet tot concrete groeiplannen": [
+                "Functioneringsgesprekken worden zelden gekoppeld aan een concreet ontwikkelingsplan.",
+                "Evaluatoren hebben geen inzicht in de opleidinghistoriek van medewerkers.",
+                "HR en directie kunnen geen trends in professionele groei analyseren."
+            ],
+            "Geen gestructureerde opvolging van verbeterpunten": [
+                "Medewerkers krijgen verbeterpunten, maar er is geen tool om deze op te volgen.",
+                "HR en directie kunnen niet zien welke personeelsleden extra coaching nodig hebben.",
+                "Er wordt geen gebruik gemaakt van duidelijke KPI’s voor professionele groei."
+            ],
+            "Mentoring en coaching zijn niet ingebed in het systeem": [
+                "Mentoren kunnen geen gestructureerde feedback geven.",
+                "Coachingstrajecten worden niet geregistreerd of opgevolgd.",
+                "Er is geen plek waar medewerkers hun eigen ontwikkelingsdoelen kunnen bijhouden."
+            ]
+        },
+        "Data & Beleidsvorming": {
+            "Gebrek aan inzichten in personeelsontwikkeling": [
+                "HR en directie hebben geen data over prestaties en groei van personeelsleden.",
+                "Geen mogelijkheid om prestaties tussen scholen of teams binnen een scholengroep te vergelijken.",
+                "Moeilijk om prestaties van tijdelijke en vaste medewerkers over de jaren heen te vergelijken."
+            ],
+            "Evaluatiegegevens niet geïntegreerd in bredere HR-processen": [
+                "Geen koppeling tussen evaluatiedata en beslissingen over promotie of benoeming.",
+                "Evaluatiegegevens worden niet gebruikt in strategische HR-planning.",
+                "Moeilijk om prestaties van tijdelijke en vaste medewerkers over de jaren heen te vergelijken."
+            ],
+            "Geen overzicht van verplichte functionerings- en evaluatiegesprekken": [
+                "HR en directie weten niet welke gesprekken nog moeten plaatsvinden.",
+                "Geen statistieken over het aantal gevoerde gesprekken per jaar.",
+                "Moeilijk om audits of inspecties te doorstaan vanwege ontbrekende data."
+            ]
+        },
+        "Compliance & Wettelijke Vereisten": {
+            "Niet voldoen aan wettelijke verplichtingen": [
+                "Functioneringsgesprekken zijn verplicht maar worden niet systematisch uitgevoerd.",
+                "Personeelsleden hebben recht op evaluatie en coaching, maar dit wordt niet consequent opgevolgd.",
+                "Evaluatieprocessen sluiten niet aan bij decreten en regelgeving voor Vlaamse scholen."
+            ],
+            "Geen correcte opvolging van TADD": [
+                "Geen automatische controle of medewerkers in aanmerking komen voor TADD.",
+                "Personeelsleden weten niet wat ze moeten doen om hun TADD-status te behalen.",
+                "HR heeft geen overzicht van wie al dan niet voldoet aan TADD-voorwaarden."
+            ]
+        },
+        "Gebruikersvriendelijkheid & Digitale Ervaringen": {
+            "Moeilijke toegang tot evaluatiesystemen": [
+                "HR-tools zijn versnipperd over meerdere platformen en systemen.",
+                "Directeurs en HR moeten manueel documenten zoeken en opslaan.",
+                "Evaluatieformulieren zijn niet gestandaardiseerd en moeilijk digitaal in te vullen."
+            ],
+            "Gebrek aan integratie met bestaande HR-systemen": [
+                "Geen koppeling met Agodi, Diplo of iPersoneel.",
+                "Evaluaties en functiebeschrijvingen zijn niet gelinkt aan personeelsdossiers.",
+                "Gebruikers moeten handmatig data overzetten van het ene systeem naar het andere."
+            ]
+        }
+    },
+    "Recruitment & Onboarding": {
+        "Vacaturebeheer & Publicatie": {
+            "Geen gestroomlijnd proces voor vacaturecreatie": [
+                "Vacatures worden manueel opgesteld in Word of Excel zonder standaard sjablonen.",
+                "Directies en HR-medewerkers besteden te veel tijd aan het telkens opnieuw maken van vacatures.",
+                "Geen mogelijkheid om vacaturebeschrijvingen uit het verleden te hergebruiken."
+            ],
+            "Moeilijke verspreiding van vacatures": [
+                "Vacatures worden handmatig gepubliceerd op verschillende platforms (VDAB, LinkedIn, schoolwebsites).",
+                "Gebrek aan integratie tussen vacaturebeheer en externe jobportalen.",
+                "Moeilijk om vacatures eenvoudig door te plaatsen op sociale media of via interne communicatienetwerken."
+            ],
+            "Gebrek aan tracking en opvolging van vacatures": [
+                "Geen duidelijk overzicht van actieve en gesloten vacatures binnen een school of scholengroep.",
+                "Moeilijk om te analyseren hoeveel sollicitanten per vacature binnenkomen.",
+                "Geen mogelijkheid om het succes van verschillende wervingskanalen te meten."
+            ]
+        },
+        "Sollicitatiebeheer": {
+            "Moeilijke en omslachtige sollicitatieprocedure": [
+                "Kandidaten moeten hun sollicitaties manueel per e-mail indienen.",
+                "Geen uniform sollicitatieformulier, waardoor HR-medewerkers sollicitaties op verschillende manieren binnenkrijgen.",
+                "Geen automatische bevestiging van ontvangst, wat leidt tot onzekerheid bij kandidaten."
+            ],
+            "Slechte administratie en tracking van sollicitanten": [
+                "Directie en HR hebben geen duidelijk overzicht van alle sollicitanten per vacature.",
+                "Geen filtermogelijkheden om kandidaten snel te zoeken op diploma, ervaring of specialisatie.",
+                "Moeilijk om kandidaten te vergelijken en te beoordelen zonder gestandaardiseerde beoordelingscriteria."
+            ],
+            "Geen gestroomlijnd feedback- en afwijsproces": [
+                "Kandidaten krijgen vaak geen terugkoppeling over hun sollicitatie.",
+                "Directies en HR-medewerkers hebben geen standaard e-mailsjablonen voor afwijzingen en uitnodigingen.",
+                "Moeilijk om feedback van gesprekken intern te delen tussen HR en directie."
+            ]
+        },
+        "Selectie & Beoordeling": {
+            "Geen objectief en gestructureerd selectieproces": [
+                "Directies en HR-medewerkers selecteren kandidaten op basis van hun eigen inschatting zonder duidelijke beoordelingscriteria.",
+                "Geen scoringssystemen om kandidaten objectief met elkaar te vergelijken.",
+                "Moeilijk om sollicitatiegesprekken goed voor te bereiden zonder centrale database met kandidaatgegevens."
+            ],
+            "Gebrek aan gestructureerde interviewprocessen": [
+                "Sollicitatiegesprekken worden ad hoc ingepland zonder duidelijke workflow.",
+                "Geen standaardvragenlijsten of beoordelingscriteria voor interviews.",
+                "Moeilijk om feedback over kandidaten op een gestructureerde manier vast te leggen."
+            ],
+            "Geen coördinatie tussen verschillende betrokkenen": [
+                "Verschillende mensen (directie, HR, vakcoördinatoren) zijn betrokken, maar hebben geen gezamenlijke tool om informatie te delen.",
+                "Geen mogelijkheid om sollicitaties parallel door meerdere personen te laten beoordelen.",
+                "HR-medewerkers verliezen veel tijd aan het coördineren en doorsturen van sollicitaties."
+            ]
+        },
+        "Talent Pools & Wervingsreserves": {
+            "Geen centrale database met potentiële kandidaten": [
+                "HR en directie moeten steeds opnieuw werven, zonder een historiek van eerdere sollicitanten te raadplegen.",
+                "Goede kandidaten uit het verleden worden niet opnieuw benaderd.",
+                "Geen mogelijkheid om interessante kandidaten uit een vorige sollicitatieronde op te slaan en te hergebruiken."
+            ],
+            "Gebrek aan een pool van vervangers": [
+                "Geen centrale lijst met beschikbare interim-leerkrachten of vervangers.",
+                "Moeilijk om snel een vervanger te vinden bij ziekte of onverwachte afwezigheid.",
+                "Geen automatische match tussen beschikbare kandidaten en openstaande vacatures."
+            ],
+            "Geen up-to-date beschikbaarheidsbeheer voor kandidaten": [
+                "Kandidaten in de talentpool kunnen hun beschikbaarheid niet aangeven.",
+                "Directies en HR-medewerkers moeten handmatig contact opnemen om beschikbaarheid te checken.",
+                "Geen automatische matching tussen openstaande vacatures en kandidaten die beschikbaar zijn."
+            ]
+        },
+        "Onboarding & Startende Medewerkers": {
+            "Geen gestructureerde onboarding": [
+                "Startende medewerkers krijgen geen duidelijke introductie over hun school en hun rol.",
+                "Geen uniform onboardingtraject voor nieuwe leerkrachten binnen een scholengroep.",
+                "Geen mogelijkheid om belangrijke documenten digitaal te delen."
+            ],
+            "Gebrek aan mentoring en begeleiding": [
+                "Nieuwe medewerkers worden vaak aan hun lot overgelaten zonder mentor of coach.",
+                "Geen gestructureerd systeem voor opvolging van startende leerkrachten.",
+                "Moeilijk om te meten of onboarding effectief verloopt en of startende medewerkers zich voldoende ondersteund voelen."
+            ],
+            "Onboarding is niet gekoppeld aan HR-administratie": [
+                "HR moet manueel contracten en documenten verzamelen van nieuwe medewerkers.",
+                "Geen automatische koppeling met personeelsdossiers en loonadministratie.",
+                "Nieuwe medewerkers moeten hun gegevens meerdere keren aanleveren in verschillende systemen."
+            ]
+        },
+        "Compliance & Wettelijke Vereisten": {
+            "Niet voldoen aan wettelijke verplichtingen rond TADD en TABD": [
+                "Geen automatische controle of tijdelijke leerkrachten voldoen aan de vereisten voor TADD.",
+                "Moeilijk om het juiste moment te bepalen waarop een medewerker in aanmerking komt voor vastbenoeming.",
+                "HR en directies moeten handmatig opvolgen wie in aanmerking komt voor doorlopende duur."
+            ],
+            "Geen correcte registratie van verplichte aanvangsbegeleiding": [
+                "Nieuwe medewerkers moeten een verplichte aanvangsbegeleiding volgen, maar er is geen gestructureerde opvolging.",
+                "Geen centrale plek waar mentorverslagen en opvolgdocumenten worden bijgehouden.",
+                "Moeilijk om aan inspectie of regelgeving te voldoen zonder gestructureerde rapportage."
+            ]
+        },
+        "Gebruiksvriendelijkheid & Digitalisering": {
+            "Te veel administratieve last": [
+                "Wervings- en onboardingprocessen zijn niet geautomatiseerd en kosten te veel tijd.",
+                "Directies en HR moeten kandidaten manueel door de selectieprocedure loodsen.",
+                "Veel dubbele invoer van gegevens in verschillende systemen."
+            ],
+            "Gebrek aan integratie met bestaande HR-systemen": [
+                "Geen automatische koppeling met Agodi of iPersoneel.",
+                "Personeelsgegevens worden niet automatisch overgezet naar de HR-database.",
+                "Moeilijk om rekrutering en onboarding te koppelen aan personeelsplanning."
+            ],
+            "Geen overzicht voor kandidaten": [
+                "Sollicitanten weten niet waar ze staan in het selectieproces.",
+                "Geen persoonlijke login of dashboard waar kandidaten hun status kunnen volgen.",
+                "Moeilijk om communication structured..."
+            ]
+        }
+    },
+    "Self Service Portal": {
+        "Persoonlijke Gegevensbeheer": {
+            "Geen centrale plek om persoonlijke gegevens te beheren": [
+                "Personeelsleden moeten wijzigingen in persoonlijke gegevens via e-mail of papieren formulieren doorgeven.",
+                "Geen selfserviceportaal waarin medewerkers hun eigen gegevens kunnen aanpassen.",
+                "HR-medewerkers moeten veel tijd besteden aan het manueel bijwerken van gegevens."
+            ],
+            "Gebrek aan automatische koppeling met HR-systemen": [
+                "Geen automatische synchronisatie met Agodi en iPersoneel.",
+                "Personeelsleden moeten hun gegevens meerdere keren doorgeven voor verschillende doeleinden.",
+                "Geen koppeling tussen persoonlijke gegevens en schoolgebonden administratieve processen."
+            ],
+            "Geen mogelijkheid om gezins- en zorgsituatie te registreren": [
+                "Personeelsleden kunnen geen informatie over ouderschapsverlof, mantelzorg of gezinsuitbreiding doorgeven via een digitale tool.",
+                "HR-afdeling mist zicht op personeelsleden met specifieke verlofrechten.",
+                "Geen overzicht van personeelsleden die recht hebben op specifieke premies of tegemoetkomingen."
+            ]
+        },
+        "Afwezigheden en Verlofaanvragen": {
+            "Moeilijk en inefficiënt proces voor verlofaanvragen": [
+                "Personeelsleden moeten verlof aanvragen via e-mail of papieren formulieren.",
+                "HR moet verlofaanvragen manueel verwerken, wat foutgevoelig en tijdrovend is.",
+                "Geen mogelijkheid om het resterend verlofsaldo zelf te raadplegen."
+            ],
+            "Geen digitaal goedkeuringsproces": [
+                "Directeurs en HR-medewerkers moeten verlofaanvragen manueel goedkeuren en registreren.",
+                "Geen geautomatiseerde workflow om goedkeuringen te stroomlijnen.",
+                "Personeelsleden moeten vaak navragen of hun verlof goedgekeurd is."
+            ],
+            "Geen overzicht van verlof- en ziektehistoriek": [
+                "Personeelsleden kunnen hun historische afwezigheden niet raadplegen.",
+                "HR en directie hebben geen zicht op terugkerende afwezigheidspatronen.",
+                "Geen automatisch gegenereerde rapporten over afwezigheden per schooljaar."
+            ],
+            "Geen digitaal proces voor ziekteverlof": [
+                "Personeelsleden kunnen ziekteverlof niet online registreren.",
+                "Geen mogelijkheid om een doktersattest digitaal te uploaden.",
+                "HR-medewerkers moeten ziektemeldingen manueel verwerken."
+            ]
+        },
+        "Tijdregistratie en Uurroosters": {
+            "Geen duidelijk overzicht van lesopdrachten en uurroosters": [
+                "Personeelsleden weten niet altijd welke lesuren ze hebben in een bepaalde periode.",
+                "Directeurs kunnen niet eenvoudig inzien welke personeelsleden wanneer beschikbaar zijn.",
+                "Geen mogelijkheid om wijzigingen in lesopdrachten real-time te communiceren."
+            ],
+            "Geen mogelijkheid om overuren en extra prestaties te registreren": [
+                "Leerkrachten kunnen overuren en vervangingen niet digitaal registreren.",
+                "HR moet extra prestaties manueel bijhouden en verwerken.",
+                "Geen geautomatiseerd systeem voor goedkeuring van overuren."
+            ],
+            "Geen duidelijke rapportage over werkuren en inzetbaarheid": [
+                "Geen dashboard met overzicht van gewerkte uren per maand of schooljaar.",
+                "Moeilijk om een historiek van werkbelasting en contractuele inzetbaarheid op te bouwen.",
+                "HR en directie hebben geen geautomatiseerde rapporten over inzetbaarheid."
+            ]
+        },
+        "Loon- en Financiële Administratie": {
+            "Geen digitaal overzicht van loonfiches": [
+                "Personeelsleden moeten loonfiches per post ontvangen of apart aanvragen.",
+                "Geen centraal digitaal archief waar medewerkers hun fiscale attesten kunnen terugvinden.",
+                "HR moet vaak looninformatie manueel verstrekken bij vragen."
+            ],
+            "Geen mogelijkheid om onkostenvergoedingen digitaal in te dienen": [
+                "Personeelsleden moeten kilometervergoeding of terugbetalingen van aankopen via e-mail of papier aanvragen.",
+                "HR moet manueel berekenen en verwerken welke onkosten vergoed worden.",
+                "Geen geautomatiseerd goedkeuringsproces voor declaraties."
+            ],
+            "Geen duidelijk overzicht van loongegevens en premies": [
+                "Personeelsleden kunnen niet digitaal nagaan hoeveel zij verdienen en hoe hun loon is opgebouwd.",
+                "Geen overzicht van opgebouwde anciënniteit en toekomstige loonsverhogingen.",
+                "Moeilijk om in te schatten welke premies of extra vergoedingen een personeelslid kan krijgen."
+            ]
+        },
+        "Professionele Ontwikkeling en Evaluatie": {
+            "Geen overzicht van gevolgde opleidingen": [
+                "Personeelsleden moeten zelf hun gevolgde opleidingen bijhouden.",
+                "HR en directie hebben geen centraal overzicht van professionele ontwikkeling per personeelslid.",
+                "Geen mogelijkheid om verplichte nascholingen automatisch te tracken."
+            ],
+            "Geen mogelijkheid om zich digitaal in te schrijven voor vormingen": [
+                "Personeelsleden moeten opleidingen handmatig aanvragen via e-mail.",
+                "Geen digitaal overzicht van beschikbare bijscholingen of verplichte vormingen.",
+                "HR heeft geen geautomatiseerd systeem om inschrijvingen te beheren."
+            ],
+            "Geen digitaal dossier met evaluaties": [
+                "Personeelsleden kunnen hun functioneringsgesprekken en feedback niet eenvoudig raadplegen.",
+                "HR en directie kunnen moeilijk bijhouden welke personeelsleden al geëvalueerd zijn.",
+                "Geen automatische opvolging van actiepunten uit evaluaties."
+            ]
+        },
+        "Mobiliteit en Loopbaanbeheer": {
+            "Geen toegang tot interne vacatures": [
+                "Personeelsleden weten niet welke interne vacatures openstaan binnen de scholengroep.",
+                "Geen mogelijkheid om intern te solliciteren voor een andere functie.",
+                "HR kan moeilijk nagaan welke personeelsleden geïnteresseerd zijn in interne mobiliteit."
+            ],
+            "Geen inzicht in loopbaanontwikkeling": [
+                "Personeelsleden weten niet hoe hun loopbaantraject binnen de scholengroep eruitziet.",
+                "Geen overzicht van opgebouwde anciënniteit en rechten op verlof en bonussen.",
+                "HR moet handmatig loopbaanpaden en doorgroeimogelijkheden communiceren."
+            ]
+        },
+        "Communicatie en Feedback": {
+            "Moeilijke en trage communicatie over HR-zaken": [
+                "Personeelsleden krijgen belangrijke HR-updates via e-mail zonder centrale opslag.",
+                "Geen gestandaardiseerde communicatiekanalen voor HR-zaken.",
+                "Medewerkers moeten handmatig op zoek naar beleidsdocumenten en richtlijnen."
+            ],
+            "Geen digitaal ticketsysteem voor HR-vragen": [
+                "HR ontvangt vragen via e-mail en telefoon, wat inefficiënt is.",
+                "Personeelsleden hebben geen overzicht van ingediende HR-vragen en statussen.",
+                "Geen systeem voor automatische beantwoording van veelgestelde vragen."
+            ]
+        }
+    }
+}

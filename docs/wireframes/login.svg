@@ -1,0 +1,11 @@
+<svg width="320" height="240" viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="320" height="240" rx="16" fill="#f7fafc"/>
+  <rect x="60" y="40" width="200" height="32" rx="6" fill="#fff" stroke="#bbb"/>
+  <text x="65" y="60" font-size="14" fill="#333">Username</text>
+  <rect x="60" y="80" width="200" height="32" rx="6" fill="#fff" stroke="#bbb"/>
+  <text x="65" y="100" font-size="14" fill="#333">Password</text>
+  <rect x="120" y="130" width="80" height="32" rx="6" fill="#3182ce"/>
+  <text x="140" y="152" font-size="16" fill="#fff">Login</text>
+  <rect x="60" y="175" width="200" height="24" rx="4" fill="#fed7d7"/>
+  <text x="70" y="192" font-size="12" fill="#c53030">Foutmelding</text>
+</svg>

@@ -1,0 +1,142 @@
+{
+  "themes": [
+    {
+      "id": "performance_management",
+      "name": "Performance Management",
+      "subthemes": [
+        {
+          "id": "evaluatieprocessen_en_opvolging",
+          "name": "Evaluatieprocessen en Opvolging",
+          "statements": [
+            {
+              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_1",
+              "text": "Gesprekken worden ad hoc georganiseerd, zonder duidelijke planning.",
+              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_2",
+              "text": "Geen gestandaardiseerde sjablonen en beoordelingscriteria per functie.",
+              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_3",
+              "text": "Evaluatoren hebben geen overzicht van eerdere functioneringsgesprekken.",
+              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_4",
+              "text": "Evaluatieverslagen raken verloren of worden niet goed gedocumenteerd.",
+              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_5",
+              "text": "Er is geen duidelijk verschil tussen functioneringsgesprekken en evaluatiegesprekken.",
+              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_6",
+              "text": "Functioneringsgesprekken worden niet goed opgevolgd met concrete actiepunten.",
+              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_geen_centrale_plek_voor_evaluatiedocumentatie_1",
+              "text": "Functiebeschrijving en evaluatiecriteria zijn versnipperd over verschillende documenten en systemen.",
+              "painpoint": "Geen centrale plek voor evaluatiedocumentatie"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_geen_centrale_plek_voor_evaluatiedocumentatie_2",
+              "text": "Medewerkers hebben geen toegang tot hun eigen evaluatieverslagen.",
+              "painpoint": "Geen centrale plek voor evaluatiedocumentatie"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_geen_centrale_plek_voor_evaluatiedocumentatie_3",
+              "text": "Personeelsleden ontvangen geen automatische notificaties bij wijzigingen in evaluatiecriteria.",
+              "painpoint": "Geen centrale plek voor evaluatiedocumentatie"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_geen_centrale_plek_voor_evaluatiedocumentatie_4",
+              "text": "Directies en HR kunnen moeilijk bijhouden welke personeelsleden geëvalueerd moeten worden.",
+              "painpoint": "Geen centrale plek voor evaluatiedocumentatie"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_gebrek_aan_automatische_opvolging_1",
+              "text": "Evaluatoren vergeten geplande functionerings- en evaluatiegesprekken.",
+              "painpoint": "Gebrek aan automatische opvolging"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_gebrek_aan_automatische_opvolging_2",
+              "text": "Geen automatische herinneringen voor verplichte functioneringsgesprekken.",
+              "painpoint": "Gebrek aan automatische opvolging"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_gebrek_aan_automatische_opvolging_3",
+              "text": "Er is geen tracking van afspraken en actiepunten uit functioneringsgesprekken.",
+              "painpoint": "Gebrek aan automatische opvolging"
+            },
+            {
+              "id": "evaluatieprocessen_en_opvolging_gebrek_aan_automatische_opvolging_4",
+              "text": "HR en directie kunnen niet controleren of evaluaties consistent worden uitgevoerd binnen de scholengroep.",
+              "painpoint": "Gebrek aan automatische opvolging"
+            }
+          ]
+        },
+        {
+          "id": "transparantie_en_beoordelingscriteria",
+          "name": "Transparantie en Beoordelingscriteria",
+          "statements": [
+            {
+              "id": "transparantie_en_beoordelingscriteria_onduidelijkheid_over_evaluatiecriteria_1",
+              "text": "Medewerkers weten niet goed waarop ze beoordeeld worden.",
+              "painpoint": "Onduidelijkheid over evaluatiecriteria"
+            },
+            {
+              "id": "transparantie_en_beoordelingscriteria_onduidelijkheid_over_evaluatiecriteria_2",
+              "text": "Evaluatoren gebruiken subjectieve maatstaven zonder eenduidige richtlijnen.",
+              "painpoint": "Onduidelijkheid over evaluatiecriteria"
+            },
+            {
+              "id": "transparantie_en_beoordelingscriteria_onduidelijkheid_over_evaluatiecriteria_3",
+              "text": "Er is geen formele koppeling tussen functiebeschrijvingen en evaluatierapporten.",
+              "painpoint": "Onduidelijkheid over evaluatiecriteria"
+            },
+            {
+              "id": "transparantie_en_beoordelingscriteria_onduidelijkheid_over_evaluatiecriteria_4",
+              "text": "Functiebeschrijvingen worden zelden geactualiseerd en zijn vaak onvolledig.",
+              "painpoint": "Onduidelijkheid over evaluatiecriteria"
+            },
+            {
+              "id": "transparantie_en_beoordelingscriteria_geen_uniforme_evaluatieaanpak_binnen_een_scholengroep_1",
+              "text": "Elke school binnen een scholengroep hanteert eigen criteria en aanpak.",
+              "painpoint": "Geen uniforme evaluatieaanpak binnen een scholengroep"
+            },
+            {
+              "id": "transparantie_en_beoordelingscriteria_geen_uniforme_evaluatieaanpak_binnen_een_scholengroep_2",
+              "text": "Verschillende evaluatoren interpreteren criteria op verschillende manieren.",
+              "painpoint": "Geen uniforme evaluatieaanpak binnen een scholengroep"
+            },
+            {
+              "id": "transparantie_en_beoordelingscriteria_geen_uniforme_evaluatieaanpak_binnen_een_scholengroep_3",
+              "text": "Er is geen benchmark of vergelijking mogelijk tussen scholen en teams.",
+              "painpoint": "Geen uniforme evaluatieaanpak binnen een scholengroep"
+            },
+            {
+              "id": "transparantie_en_beoordelingscriteria_geen_duidelijke_bezwaarprocedure_bij_negatieve_evaluaties_1",
+              "text": "Personeelsleden weten niet hoe ze in beroep kunnen gaan tegen een negatieve evaluatie.",
+              "painpoint": "Geen duidelijke bezwaarprocedure bij negatieve evaluaties"
+            },
+            {
+              "id": "transparantie_en_beoordelingscriteria_geen_duidelijke_bezwaarprocedure_bij_negatieve_evaluaties_2",
+              "text": "Geen automatische melding wanneer een evaluatie bezwaarlijk kan zijn.",
+              "painpoint": "Geen duidelijke bezwaarprocedure bij negatieve evaluaties"
+            },
+            {
+              "id": "transparantie_en_beoordelingscriteria_geen_duidelijke_bezwaarprocedure_bij_negatieve_evaluaties_3",
+              "text": "Evaluatoren hebben geen proces om bezwaar correct af te handelen.",
+              "painpoint": "Geen duidelijke bezwaarprocedure bij negatieve evaluaties"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

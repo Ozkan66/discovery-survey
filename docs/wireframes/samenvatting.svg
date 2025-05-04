@@ -1,0 +1,13 @@
+<svg width="340" height="220" viewBox="0 0 340 220" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="340" height="220" rx="16" fill="#f7fafc"/>
+  <rect x="30" y="30" width="280" height="28" rx="6" fill="#fff" stroke="#bbb"/>
+  <text x="40" y="50" font-size="14" fill="#333">Thema | Score</text>
+  <rect x="30" y="70" width="280" height="28" rx="6" fill="#fff" stroke="#bbb"/>
+  <text x="40" y="90" font-size="14" fill="#333">Subthema | Score</text>
+  <rect x="30" y="110" width="280" height="28" rx="6" fill="#fff" stroke="#bbb"/>
+  <text x="40" y="130" font-size="14" fill="#333">Top 3 uitgelicht</text>
+  <rect x="80" y="160" width="80" height="28" rx="6" fill="#3182ce"/>
+  <text x="95" y="179" font-size="14" fill="#fff">Download</text>
+  <rect x="180" y="160" width="80" height="28" rx="6" fill="#38a169"/>
+  <text x="205" y="179" font-size="14" fill="#fff">Print</text>
+</svg>
