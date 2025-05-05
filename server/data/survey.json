@@ -9,74 +9,74 @@
           "name": "Evaluatieprocessen en Opvolging",
           "statements": [
             {
-              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_1",
-              "text": "Gesprekken worden ad hoc georganiseerd, zonder duidelijke planning.",
-              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+              "id": "structuur_in_functionerings_en_evaluatiegesprekken_1",
+              "text": "Gesprekken worden volgens een duidelijke planning georganiseerd.",
+              "painpoint": "Structuur in functionerings- en evaluatiegesprekken"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_2",
-              "text": "Geen gestandaardiseerde sjablonen en beoordelingscriteria per functie.",
-              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+              "id": "structuur_in_functionerings_en_evaluatiegesprekken_2",
+              "text": "Gestandaardiseerde sjablonen en beoordelingscriteria zijn beschikbaar per functie.",
+              "painpoint": "Structuur in functionerings- en evaluatiegesprekken"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_3",
-              "text": "Evaluatoren hebben geen overzicht van eerdere functioneringsgesprekken.",
-              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+              "id": "structuur_in_functionerings_en_evaluatiegesprekken_3",
+              "text": "Evaluatoren hebben een volledig overzicht van eerdere functioneringsgesprekken.",
+              "painpoint": "Structuur in functionerings- en evaluatiegesprekken"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_4",
-              "text": "Evaluatieverslagen raken verloren of worden niet goed gedocumenteerd.",
-              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+              "id": "structuur_in_functionerings_en_evaluatiegesprekken_4",
+              "text": "Evaluatieverslagen worden goed gedocumenteerd en bewaard.",
+              "painpoint": "Structuur in functionerings- en evaluatiegesprekken"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_5",
-              "text": "Er is geen duidelijk verschil tussen functioneringsgesprekken en evaluatiegesprekken.",
-              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+              "id": "structuur_in_functionerings_en_evaluatiegesprekken_5",
+              "text": "Er is een duidelijk onderscheid tussen functioneringsgesprekken en evaluatiegesprekken.",
+              "painpoint": "Structuur in functionerings- en evaluatiegesprekken"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_onvoldoende_structuur_in_functionerings_en_evaluatiegesprekken_6",
-              "text": "Functioneringsgesprekken worden niet goed opgevolgd met concrete actiepunten.",
-              "painpoint": "Onvoldoende structuur in functionerings- en evaluatiegesprekken"
+              "id": "structuur_in_functionerings_en_evaluatiegesprekken_6",
+              "text": "Functioneringsgesprekken worden systematisch opgevolgd met concrete actiepunten.",
+              "painpoint": "Structuur in functionerings- en evaluatiegesprekken"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_geen_centrale_plek_voor_evaluatiedocumentatie_1",
-              "text": "Functiebeschrijving en evaluatiecriteria zijn versnipperd over verschillende documenten en systemen.",
-              "painpoint": "Geen centrale plek voor evaluatiedocumentatie"
+              "id": "centrale_plek_voor_evaluatiedocumentatie_1",
+              "text": "Functiebeschrijving en evaluatiecriteria zijn gebundeld in één toegankelijk systeem.",
+              "painpoint": "Centrale plek voor evaluatiedocumentatie"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_geen_centrale_plek_voor_evaluatiedocumentatie_2",
-              "text": "Medewerkers hebben geen toegang tot hun eigen evaluatieverslagen.",
-              "painpoint": "Geen centrale plek voor evaluatiedocumentatie"
+              "id": "centrale_plek_voor_evaluatiedocumentatie_2",
+              "text": "Medewerkers hebben toegang tot hun eigen evaluatieverslagen.",
+              "painpoint": "Centrale plek voor evaluatiedocumentatie"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_geen_centrale_plek_voor_evaluatiedocumentatie_3",
-              "text": "Personeelsleden ontvangen geen automatische notificaties bij wijzigingen in evaluatiecriteria.",
-              "painpoint": "Geen centrale plek voor evaluatiedocumentatie"
+              "id": "centrale_plek_voor_evaluatiedocumentatie_3",
+              "text": "Personeelsleden ontvangen automatische notificaties bij wijzigingen in evaluatiecriteria.",
+              "painpoint": "Centrale plek voor evaluatiedocumentatie"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_geen_centrale_plek_voor_evaluatiedocumentatie_4",
-              "text": "Directies en HR kunnen moeilijk bijhouden welke personeelsleden geëvalueerd moeten worden.",
-              "painpoint": "Geen centrale plek voor evaluatiedocumentatie"
+              "id": "centrale_plek_voor_evaluatiedocumentatie_4",
+              "text": "Directies en HR kunnen eenvoudig bijhouden welke personeelsleden geëvalueerd moeten worden.",
+              "painpoint": "Centrale plek voor evaluatiedocumentatie"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_gebrek_aan_automatische_opvolging_1",
-              "text": "Evaluatoren vergeten geplande functionerings- en evaluatiegesprekken.",
-              "painpoint": "Gebrek aan automatische opvolging"
+              "id": "automatische_opvolging_1",
+              "text": "Evaluatoren worden tijdig herinnerd aan geplande functionerings- en evaluatiegesprekken.",
+              "painpoint": "Automatische opvolging"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_gebrek_aan_automatische_opvolging_2",
-              "text": "Geen automatische herinneringen voor verplichte functioneringsgesprekken.",
-              "painpoint": "Gebrek aan automatische opvolging"
+              "id": "automatische_opvolging_2",
+              "text": "Automatische herinneringen voor verplichte functioneringsgesprekken zijn ingesteld.",
+              "painpoint": "Automatische opvolging"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_gebrek_aan_automatische_opvolging_3",
-              "text": "Er is geen tracking van afspraken en actiepunten uit functioneringsgesprekken.",
-              "painpoint": "Gebrek aan automatische opvolging"
+              "id": "automatische_opvolging_3",
+              "text": "Er is een tracking systeem voor afspraken en actiepunten uit functioneringsgesprekken.",
+              "painpoint": "Automatische opvolging"
             },
             {
-              "id": "evaluatieprocessen_en_opvolging_gebrek_aan_automatische_opvolging_4",
-              "text": "HR en directie kunnen niet controleren of evaluaties consistent worden uitgevoerd binnen de scholengroep.",
-              "painpoint": "Gebrek aan automatische opvolging"
+              "id": "automatische_opvolging_4",
+              "text": "HR en directie kunnen controleren of evaluaties consistent worden uitgevoerd binnen de scholengroep.",
+              "painpoint": "Automatische opvolging"
             }
           ]
         },
@@ -85,54 +85,54 @@
           "name": "Transparantie en Beoordelingscriteria",
           "statements": [
             {
-              "id": "transparantie_en_beoordelingscriteria_onduidelijkheid_over_evaluatiecriteria_1",
-              "text": "Medewerkers weten niet goed waarop ze beoordeeld worden.",
-              "painpoint": "Onduidelijkheid over evaluatiecriteria"
+              "id": "duidelijkheid_over_evaluatiecriteria_1",
+              "text": "Medewerkers weten precies waarop ze beoordeeld worden.",
+              "painpoint": "Duidelijkheid over evaluatiecriteria"
             },
             {
-              "id": "transparantie_en_beoordelingscriteria_onduidelijkheid_over_evaluatiecriteria_2",
-              "text": "Evaluatoren gebruiken subjectieve maatstaven zonder eenduidige richtlijnen.",
-              "painpoint": "Onduidelijkheid over evaluatiecriteria"
+              "id": "duidelijkheid_over_evaluatiecriteria_2",
+              "text": "Evaluatoren gebruiken objectieve maatstaven met eenduidige richtlijnen.",
+              "painpoint": "Duidelijkheid over evaluatiecriteria"
             },
             {
-              "id": "transparantie_en_beoordelingscriteria_onduidelijkheid_over_evaluatiecriteria_3",
-              "text": "Er is geen formele koppeling tussen functiebeschrijvingen en evaluatierapporten.",
-              "painpoint": "Onduidelijkheid over evaluatiecriteria"
+              "id": "duidelijkheid_over_evaluatiecriteria_3",
+              "text": "Er is een formele koppeling tussen functiebeschrijvingen en evaluatierapporten.",
+              "painpoint": "Duidelijkheid over evaluatiecriteria"
             },
             {
-              "id": "transparantie_en_beoordelingscriteria_onduidelijkheid_over_evaluatiecriteria_4",
-              "text": "Functiebeschrijvingen worden zelden geactualiseerd en zijn vaak onvolledig.",
-              "painpoint": "Onduidelijkheid over evaluatiecriteria"
+              "id": "duidelijkheid_over_evaluatiecriteria_4",
+              "text": "Functiebeschrijvingen worden regelmatig geactualiseerd en zijn volledig.",
+              "painpoint": "Duidelijkheid over evaluatiecriteria"
             },
             {
-              "id": "transparantie_en_beoordelingscriteria_geen_uniforme_evaluatieaanpak_binnen_een_scholengroep_1",
-              "text": "Elke school binnen een scholengroep hanteert eigen criteria en aanpak.",
-              "painpoint": "Geen uniforme evaluatieaanpak binnen een scholengroep"
+              "id": "uniforme_evaluatieaanpak_binnen_een_scholengroep_1",
+              "text": "Alle scholen binnen een scholengroep hanteren dezelfde criteria en aanpak.",
+              "painpoint": "Uniforme evaluatieaanpak binnen een scholengroep"
             },
             {
-              "id": "transparantie_en_beoordelingscriteria_geen_uniforme_evaluatieaanpak_binnen_een_scholengroep_2",
-              "text": "Verschillende evaluatoren interpreteren criteria op verschillende manieren.",
-              "painpoint": "Geen uniforme evaluatieaanpak binnen een scholengroep"
+              "id": "uniforme_evaluatieaanpak_binnen_een_scholengroep_2",
+              "text": "Verschillende evaluatoren interpreteren criteria op dezelfde manier.",
+              "painpoint": "Uniforme evaluatieaanpak binnen een scholengroep"
             },
             {
-              "id": "transparantie_en_beoordelingscriteria_geen_uniforme_evaluatieaanpak_binnen_een_scholengroep_3",
-              "text": "Er is geen benchmark of vergelijking mogelijk tussen scholen en teams.",
-              "painpoint": "Geen uniforme evaluatieaanpak binnen een scholengroep"
+              "id": "uniforme_evaluatieaanpak_binnen_een_scholengroep_3",
+              "text": "Er is een benchmark of vergelijking mogelijk tussen scholen en teams.",
+              "painpoint": "Uniforme evaluatieaanpak binnen een scholengroep"
             },
             {
-              "id": "transparantie_en_beoordelingscriteria_geen_duidelijke_bezwaarprocedure_bij_negatieve_evaluaties_1",
-              "text": "Personeelsleden weten niet hoe ze in beroep kunnen gaan tegen een negatieve evaluatie.",
-              "painpoint": "Geen duidelijke bezwaarprocedure bij negatieve evaluaties"
+              "id": "duidelijke_bezwaarprocedure_bij_negatieve_evaluaties_1",
+              "text": "Personeelsleden weten precies hoe ze in beroep kunnen gaan tegen een negatieve evaluatie.",
+              "painpoint": "Duidelijke bezwaarprocedure bij negatieve evaluaties"
             },
             {
-              "id": "transparantie_en_beoordelingscriteria_geen_duidelijke_bezwaarprocedure_bij_negatieve_evaluaties_2",
-              "text": "Geen automatische melding wanneer een evaluatie bezwaarlijk kan zijn.",
-              "painpoint": "Geen duidelijke bezwaarprocedure bij negatieve evaluaties"
+              "id": "duidelijke_bezwaarprocedure_bij_negatieve_evaluaties_2",
+              "text": "Er is een automatische melding wanneer een evaluatie bezwaarlijk kan zijn.",
+              "painpoint": "Duidelijke bezwaarprocedure bij negatieve evaluaties"
             },
             {
-              "id": "transparantie_en_beoordelingscriteria_geen_duidelijke_bezwaarprocedure_bij_negatieve_evaluaties_3",
-              "text": "Evaluatoren hebben geen proces om bezwaar correct af te handelen.",
-              "painpoint": "Geen duidelijke bezwaarprocedure bij negatieve evaluaties"
+              "id": "duidelijke_bezwaarprocedure_bij_negatieve_evaluaties_3",
+              "text": "Evaluatoren hebben een duidelijk proces om bezwaren correct af te handelen.",
+              "painpoint": "Duidelijke bezwaarprocedure bij negatieve evaluaties"
             }
           ]
         },
@@ -141,49 +141,49 @@
           "name": "Feedback en 360° Evaluatie",
           "statements": [
             {
-              "id": "feedback_en_360_evaluatie_gebrek_aan_een_feedbackcultuur_1",
-              "text": "Feedback gebeurt vaak enkel top-down en niet vanuit peers of mentoren.",
-              "painpoint": "Gebrek aan een feedbackcultuur"
+              "id": "sterke_feedbackcultuur_1",
+              "text": "Feedback gebeurt in alle richtingen: top-down, bottom-up en van peers en mentoren.",
+              "painpoint": "Sterke feedbackcultuur"
             },
             {
-              "id": "feedback_en_360_evaluatie_gebrek_aan_een_feedbackcultuur_2",
-              "text": "Medewerkers voelen zich niet betrokken bij hun eigen groei en ontwikkeling.",
-              "painpoint": "Gebrek aan een feedbackcultuur"
+              "id": "sterke_feedbackcultuur_2",
+              "text": "Medewerkers voelen zich betrokken bij hun eigen groei en ontwikkeling.",
+              "painpoint": "Sterke feedbackcultuur"
             },
             {
-              "id": "feedback_en_360_evaluatie_gebrek_aan_een_feedbackcultuur_3",
-              "text": "Geen mogelijkheid voor zelfreflectie of het actief bijhouden van prestaties.",
-              "painpoint": "Gebrek aan een feedbackcultuur"
+              "id": "sterke_feedbackcultuur_3",
+              "text": "Er zijn mogelijkheden voor zelfreflectie en het actief bijhouden van prestaties.",
+              "painpoint": "Sterke feedbackcultuur"
             },
             {
-              "id": "feedback_en_360_evaluatie_geen_360_evaluatie_1",
-              "text": "Evaluaties zijn eenzijdig en houden geen rekening met feedback van collega's.",
-              "painpoint": "Geen 360° evaluatie"
+              "id": "360_evaluatie_input_van_collegas_mentoren_leerlingen_1",
+              "text": "Evaluaties zijn veelzijdig en houden rekening met feedback van collega's.",
+              "painpoint": "360° evaluatie (input van collega's, mentoren, leerlingen)"
             },
             {
-              "id": "feedback_en_360_evaluatie_geen_360_evaluatie_2",
-              "text": "Mentoren kunnen geen objectieve feedback geven op de ontwikkeling van nieuwe medewerkers.",
-              "painpoint": "Geen 360° evaluatie"
+              "id": "360_evaluatie_input_van_collegas_mentoren_leerlingen_2",
+              "text": "Mentoren kunnen objectieve feedback geven op de ontwikkeling van nieuwe medewerkers.",
+              "painpoint": "360° evaluatie (input van collega's, mentoren, leerlingen)"
             },
             {
-              "id": "feedback_en_360_evaluatie_geen_360_evaluatie_3",
-              "text": "Leerlingenfeedback wordt niet meegenomen bij de beoordeling van leerkrachten.",
-              "painpoint": "Geen 360° evaluatie"
+              "id": "360_evaluatie_input_van_collegas_mentoren_leerlingen_3",
+              "text": "Leerlingenfeedback wordt meegenomen bij de beoordeling van leerkrachten.",
+              "painpoint": "360° evaluatie (input van collega's, mentoren, leerlingen)"
             },
             {
-              "id": "feedback_en_360_evaluatie_feedbackmomenten_worden_niet_geregistreerd_1",
-              "text": "Feedback uit informele gesprekken gaat verloren.",
-              "painpoint": "Feedbackmomenten worden niet geregistreerd"
+              "id": "registratie_van_feedbackmomenten_1",
+              "text": "Feedback uit informele gesprekken wordt vastgelegd.",
+              "painpoint": "Registratie van feedbackmomenten"
             },
             {
-              "id": "feedback_en_360_evaluatie_feedbackmomenten_worden_niet_geregistreerd_2",
-              "text": "Geen centrale plek waar feedback wordt opgeslagen voor latere evaluaties.",
-              "painpoint": "Feedbackmomenten worden niet geregistreerd"
+              "id": "registratie_van_feedbackmomenten_2",
+              "text": "Er is een centrale plek waar feedback wordt opgeslagen voor latere evaluaties.",
+              "painpoint": "Registratie van feedbackmomenten"
             },
             {
-              "id": "feedback_en_360_evaluatie_feedbackmomenten_worden_niet_geregistreerd_3",
-              "text": "Evaluatoren kunnen moeilijk trends in prestaties over meerdere jaren detecteren.",
-              "painpoint": "Feedbackmomenten worden niet geregistreerd"
+              "id": "registratie_van_feedbackmomenten_3",
+              "text": "Evaluatoren kunnen trends in prestaties over meerdere jaren detecteren.",
+              "painpoint": "Registratie van feedbackmomenten"
             }
           ]
         },
@@ -192,49 +192,49 @@
           "name": "Professionele Ontwikkeling en Coaching",
           "statements": [
             {
-              "id": "professionele_ontwikkeling_en_coaching_evaluatie_leidt_niet_tot_concrete_groeiplannen_1",
-              "text": "Functioneringsgesprekken worden zelden gekoppeld aan een concreet ontwikkelingsplan.",
-              "painpoint": "Evaluatie leidt niet tot concrete groeiplannen"
+              "id": "evaluatie_leidt_tot_concrete_groeiplannen_1",
+              "text": "Functioneringsgesprekken worden systematisch gekoppeld aan een concreet ontwikkelingsplan.",
+              "painpoint": "Evaluatie leidt tot concrete groeiplannen"
             },
             {
-              "id": "professionele_ontwikkeling_en_coaching_evaluatie_leidt_niet_tot_concrete_groeiplannen_2",
-              "text": "Evaluatoren hebben geen inzicht in de opleidinghistoriek van medewerkers.",
-              "painpoint": "Evaluatie leidt niet tot concrete groeiplannen"
+              "id": "evaluatie_leidt_tot_concrete_groeiplannen_2",
+              "text": "Evaluatoren hebben volledig inzicht in de opleidingshistoriek van medewerkers.",
+              "painpoint": "Evaluatie leidt tot concrete groeiplannen"
             },
             {
-              "id": "professionele_ontwikkeling_en_coaching_evaluatie_leidt_niet_tot_concrete_groeiplannen_3",
-              "text": "HR en directie kunnen geen trends in professionele groei analyseren.",
-              "painpoint": "Evaluatie leidt niet tot concrete groeiplannen"
+              "id": "evaluatie_leidt_tot_concrete_groeiplannen_3",
+              "text": "HR en directie kunnen trends in professionele groei analyseren.",
+              "painpoint": "Evaluatie leidt tot concrete groeiplannen"
             },
             {
-              "id": "professionele_ontwikkeling_en_coaching_geen_gestructureerde_opvolging_van_verbeterpunten_1",
-              "text": "Medewerkers krijgen verbeterpunten, maar er is geen tool om deze op te volgen.",
-              "painpoint": "Geen gestructureerde opvolging van verbeterpunten"
+              "id": "gestructureerde_opvolging_van_verbeterpunten_1",
+              "text": "Medewerkers krijgen verbeterpunten met een tool om deze op te volgen.",
+              "painpoint": "Gestructureerde opvolging van verbeterpunten"
             },
             {
-              "id": "professionele_ontwikkeling_en_coaching_geen_gestructureerde_opvolging_van_verbeterpunten_2",
-              "text": "HR en directie kunnen niet zien welke personeelsleden extra coaching nodig hebben.",
-              "painpoint": "Geen gestructureerde opvolging van verbeterpunten"
+              "id": "gestructureerde_opvolging_van_verbeterpunten_2",
+              "text": "HR en directie kunnen zien welke personeelsleden extra coaching nodig hebben.",
+              "painpoint": "Gestructureerde opvolging van verbeterpunten"
             },
             {
-              "id": "professionele_ontwikkeling_en_coaching_geen_gestructureerde_opvolging_van_verbeterpunten_3",
-              "text": "Er wordt geen gebruik gemaakt van duidelijke KPI’s voor professionele groei.",
-              "painpoint": "Geen gestructureerde opvolging van verbeterpunten"
+              "id": "gestructureerde_opvolging_van_verbeterpunten_3",
+              "text": "Er wordt gebruik gemaakt van duidelijke KPI's voor professionele groei.",
+              "painpoint": "Gestructureerde opvolging van verbeterpunten"
             },
             {
-              "id": "professionele_ontwikkeling_en_coaching_mentoring_en_coaching_zijn_niet_ingebed_in_het_systeem_1",
-              "text": "Mentoren kunnen geen gestructureerde feedback geven.",
-              "painpoint": "Mentoring en coaching zijn niet ingebed in het systeem"
+              "id": "mentoring_en_coaching_zijn_ingebed_in_het_systeem_1",
+              "text": "Mentoren kunnen gestructureerde feedback geven.",
+              "painpoint": "Mentoring en coaching zijn ingebed in het systeem"
             },
             {
-              "id": "professionele_ontwikkeling_en_coaching_mentoring_en_coaching_zijn_niet_ingebed_in_het_systeem_2",
-              "text": "Coachingstrajecten worden niet geregistreerd of opgevolgd.",
-              "painpoint": "Mentoring en coaching zijn niet ingebed in het systeem"
+              "id": "mentoring_en_coaching_zijn_ingebed_in_het_systeem_2",
+              "text": "Coachingstrajecten worden geregistreerd en opgevolgd.",
+              "painpoint": "Mentoring en coaching zijn ingebed in het systeem"
             },
             {
-              "id": "professionele_ontwikkeling_en_coaching_mentoring_en_coaching_zijn_niet_ingebed_in_het_systeem_3",
-              "text": "Er is geen plek waar medewerkers hun eigen ontwikkelingsdoelen kunnen bijhouden.",
-              "painpoint": "Mentoring en coaching zijn niet ingebed in het systeem"
+              "id": "mentoring_en_coaching_zijn_ingebed_in_het_systeem_3",
+              "text": "Er is een plek waar medewerkers hun eigen ontwikkelingsdoelen kunnen bijhouden.",
+              "painpoint": "Mentoring en coaching zijn ingebed in het systeem"
             }
           ]
         },
@@ -243,49 +243,49 @@
           "name": "Data & Beleidsvorming",
           "statements": [
             {
-              "id": "data_beleidsvorming_gebrek_aan_inzichten_in_personeelsontwikkeling_1",
-              "text": "HR en directie hebben geen data over prestaties en groei van personeelsleden.",
-              "painpoint": "Gebrek aan inzichten in personeelsontwikkeling"
+              "id": "inzichten_in_personeelsontwikkeling_1",
+              "text": "HR en directie hebben complete data over prestaties en groei van personeelsleden.",
+              "painpoint": "Inzichten in personeelsontwikkeling"
             },
             {
-              "id": "data_beleidsvorming_gebrek_aan_inzichten_in_personeelsontwikkeling_2",
-              "text": "Geen mogelijkheid om prestaties tussen scholen of teams binnen een scholengroep te vergelijken.",
-              "painpoint": "Gebrek aan inzichten in personeelsontwikkeling"
+              "id": "inzichten_in_personeelsontwikkeling_2",
+              "text": "Er is mogelijkheid om prestaties tussen scholen of teams binnen een scholengroep te vergelijken.",
+              "painpoint": "Inzichten in personeelsontwikkeling"
             },
             {
-              "id": "data_beleidsvorming_gebrek_aan_inzichten_in_personeelsontwikkeling_3",
-              "text": "Moeilijk om prestaties van tijdelijke en vaste medewerkers over de jaren heen te vergelijken.",
-              "painpoint": "Gebrek aan inzichten in personeelsontwikkeling"
+              "id": "inzichten_in_personeelsontwikkeling_3",
+              "text": "Prestaties van tijdelijke en vaste medewerkers kunnen over de jaren heen worden vergeleken.",
+              "painpoint": "Inzichten in personeelsontwikkeling"
             },
             {
-              "id": "data_beleidsvorming_evaluatiegegevens_niet_ge_ntegreerd_in_bredere_hr_processen_1",
-              "text": "Geen koppeling tussen evaluatiedata en beslissingen over promotie of benoeming.",
-              "painpoint": "Evaluatiegegevens niet geïntegreerd in bredere HR-processen"
+              "id": "evaluatiegegevens_gentegreerd_in_bredere_hrprocessen_1",
+              "text": "Er is een koppeling tussen evaluatiedata en beslissingen over promotie of benoeming.",
+              "painpoint": "Evaluatiegegevens geïntegreerd in bredere HR-processen"
             },
             {
-              "id": "data_beleidsvorming_evaluatiegegevens_niet_ge_ntegreerd_in_bredere_hr_processen_2",
-              "text": "Evaluatiegegevens worden niet gebruikt in strategische HR-planning.",
-              "painpoint": "Evaluatiegegevens niet geïntegreerd in bredere HR-processen"
+              "id": "evaluatiegegevens_gentegreerd_in_bredere_hrprocessen_2",
+              "text": "Evaluatiegegevens worden gebruikt in strategische HR-planning.",
+              "painpoint": "Evaluatiegegevens geïntegreerd in bredere HR-processen"
             },
             {
-              "id": "data_beleidsvorming_evaluatiegegevens_niet_ge_ntegreerd_in_bredere_hr_processen_3",
-              "text": "Moeilijk om prestaties van tijdelijke en vaste medewerkers over de jaren heen te vergelijken.",
-              "painpoint": "Evaluatiegegevens niet geïntegreerd in bredere HR-processen"
+              "id": "evaluatiegegevens_gentegreerd_in_bredere_hrprocessen_3",
+              "text": "Prestaties van tijdelijke en vaste medewerkers kunnen over de jaren heen worden vergeleken.",
+              "painpoint": "Evaluatiegegevens geïntegreerd in bredere HR-processen"
             },
             {
-              "id": "data_beleidsvorming_geen_overzicht_van_verplichte_functionerings_en_evaluatiegesprekken_1",
-              "text": "HR en directie weten niet welke gesprekken nog moeten plaatsvinden.",
-              "painpoint": "Geen overzicht van verplichte functionerings- en evaluatiegesprekken"
+              "id": "overzicht_van_verplichte_functionerings_en_evaluatiegesprekken_1",
+              "text": "HR en directie weten precies welke gesprekken nog moeten plaatsvinden.",
+              "painpoint": "Overzicht van verplichte functionerings- en evaluatiegesprekken"
             },
             {
-              "id": "data_beleidsvorming_geen_overzicht_van_verplichte_functionerings_en_evaluatiegesprekken_2",
-              "text": "Geen statistieken over het aantal gevoerde gesprekken per jaar.",
-              "painpoint": "Geen overzicht van verplichte functionerings- en evaluatiegesprekken"
+              "id": "overzicht_van_verplichte_functionerings_en_evaluatiegesprekken_2",
+              "text": "Er zijn statistieken beschikbaar over het aantal gevoerde gesprekken per jaar.",
+              "painpoint": "Overzicht van verplichte functionerings- en evaluatiegesprekken"
             },
             {
-              "id": "data_beleidsvorming_geen_overzicht_van_verplichte_functionerings_en_evaluatiegesprekken_3",
-              "text": "Moeilijk om audits of inspecties te doorstaan vanwege ontbrekende data.",
-              "painpoint": "Geen overzicht van verplichte functionerings- en evaluatiegesprekken"
+              "id": "overzicht_van_verplichte_functionerings_en_evaluatiegesprekken_3",
+              "text": "Audits of inspecties worden probleemloos doorstaan dankzij complete data.",
+              "painpoint": "Overzicht van verplichte functionerings- en evaluatiegesprekken"
             }
           ]
         },
@@ -294,34 +294,34 @@
           "name": "Compliance & Wettelijke Vereisten",
           "statements": [
             {
-              "id": "compliance_wettelijke_vereisten_niet_voldoen_aan_wettelijke_verplichtingen_1",
-              "text": "Functioneringsgesprekken zijn verplicht maar worden niet systematisch uitgevoerd.",
-              "painpoint": "Niet voldoen aan wettelijke verplichtingen"
+              "id": "voldoen_aan_wettelijke_verplichtingen_1",
+              "text": "Functioneringsgesprekken worden systematisch uitgevoerd conform de wettelijke verplichting.",
+              "painpoint": "Voldoen aan wettelijke verplichtingen"
             },
             {
-              "id": "compliance_wettelijke_vereisten_niet_voldoen_aan_wettelijke_verplichtingen_2",
-              "text": "Personeelsleden hebben recht op evaluatie en coaching, maar dit wordt niet consequent opgevolgd.",
-              "painpoint": "Niet voldoen aan wettelijke verplichtingen"
+              "id": "voldoen_aan_wettelijke_verplichtingen_2",
+              "text": "Personeelsleden krijgen de evaluatie en coaching waar ze recht op hebben.",
+              "painpoint": "Voldoen aan wettelijke verplichtingen"
             },
             {
-              "id": "compliance_wettelijke_vereisten_niet_voldoen_aan_wettelijke_verplichtingen_3",
-              "text": "Evaluatieprocessen sluiten niet aan bij decreten en regelgeving voor Vlaamse scholen.",
-              "painpoint": "Niet voldoen aan wettelijke verplichtingen"
+              "id": "voldoen_aan_wettelijke_verplichtingen_3",
+              "text": "Evaluatieprocessen sluiten naadloos aan bij decreten en regelgeving voor Vlaamse scholen.",
+              "painpoint": "Voldoen aan wettelijke verplichtingen"
             },
             {
-              "id": "compliance_wettelijke_vereisten_geen_correcte_opvolging_van_tadd_1",
-              "text": "Geen automatische controle of medewerkers in aanmerking komen voor TADD.",
-              "painpoint": "Geen correcte opvolging van TADD"
+              "id": "correcte_opvolging_van_tijdelijke_aanstelling_van_doorlopende_duur_tadd_1",
+              "text": "Er is automatische controle of medewerkers in aanmerking komen voor TADD.",
+              "painpoint": "Correcte opvolging van Tijdelijke Aanstelling van Doorlopende Duur (TADD)"
             },
             {
-              "id": "compliance_wettelijke_vereisten_geen_correcte_opvolging_van_tadd_2",
-              "text": "Personeelsleden weten niet wat ze moeten doen om hun TADD-status te behalen.",
-              "painpoint": "Geen correcte opvolging van TADD"
+              "id": "correcte_opvolging_van_tijdelijke_aanstelling_van_doorlopende_duur_tadd_2",
+              "text": "Personeelsleden weten precies wat ze moeten doen om hun TADD-status te behalen.",
+              "painpoint": "Correcte opvolging van Tijdelijke Aanstelling van Doorlopende Duur (TADD)"
             },
             {
-              "id": "compliance_wettelijke_vereisten_geen_correcte_opvolging_van_tadd_3",
-              "text": "HR heeft geen overzicht van wie al dan niet voldoet aan TADD-voorwaarden.",
-              "painpoint": "Geen correcte opvolging van TADD"
+              "id": "correcte_opvolging_van_tijdelijke_aanstelling_van_doorlopende_duur_tadd_3",
+              "text": "HR heeft een volledig overzicht van wie al dan niet voldoet aan TADD-voorwaarden.",
+              "painpoint": "Correcte opvolging van Tijdelijke Aanstelling van Doorlopende Duur (TADD)"
             }
           ]
         },
@@ -330,34 +330,34 @@
           "name": "Gebruikersvriendelijkheid & Digitale Ervaringen",
           "statements": [
             {
-              "id": "gebruikersvriendelijkheid_digitale_ervaringen_moeilijke_toegang_tot_evaluatiesystemen_1",
-              "text": "HR-tools zijn versnipperd over meerdere platformen en systemen.",
-              "painpoint": "Moeilijke toegang tot evaluatiesystemen"
+              "id": "eenvoudige_toegang_tot_evaluatiesystemen_1",
+              "text": "HR-tools zijn geïntegreerd in één gebruiksvriendelijk platform.",
+              "painpoint": "Eenvoudige toegang tot evaluatiesystemen"
             },
             {
-              "id": "gebruikersvriendelijkheid_digitale_ervaringen_moeilijke_toegang_tot_evaluatiesystemen_2",
-              "text": "Directeurs en HR moeten manueel documenten zoeken en opslaan.",
-              "painpoint": "Moeilijke toegang tot evaluatiesystemen"
+              "id": "eenvoudige_toegang_tot_evaluatiesystemen_2",
+              "text": "Directeurs en HR kunnen documenten eenvoudig vinden en opslaan.",
+              "painpoint": "Eenvoudige toegang tot evaluatiesystemen"
             },
             {
-              "id": "gebruikersvriendelijkheid_digitale_ervaringen_moeilijke_toegang_tot_evaluatiesystemen_3",
-              "text": "Evaluatieformulieren zijn niet gestandaardiseerd en moeilijk digitaal in te vullen.",
-              "painpoint": "Moeilijke toegang tot evaluatiesystemen"
+              "id": "eenvoudige_toegang_tot_evaluatiesystemen_3",
+              "text": "Evaluatieformulieren zijn gestandaardiseerd en gemakkelijk digitaal in te vullen.",
+              "painpoint": "Eenvoudige toegang tot evaluatiesystemen"
             },
             {
-              "id": "gebruikersvriendelijkheid_digitale_ervaringen_gebrek_aan_integratie_met_bestaande_hr_systemen_1",
-              "text": "Geen koppeling met Agodi, Diplo of iPersoneel.",
-              "painpoint": "Gebrek aan integratie met bestaande HR-systemen"
+              "id": "integratie_met_bestaande_hrsystemen_1",
+              "text": "Er is een volledige koppeling met Agodi, Diplo en iPersoneel.",
+              "painpoint": "Integratie met bestaande HR-systemen"
             },
             {
-              "id": "gebruikersvriendelijkheid_digitale_ervaringen_gebrek_aan_integratie_met_bestaande_hr_systemen_2",
-              "text": "Evaluaties en functiebeschrijvingen zijn niet gelinkt aan personeelsdossiers.",
-              "painpoint": "Gebrek aan integratie met bestaande HR-systemen"
+              "id": "integratie_met_bestaande_hrsystemen_2",
+              "text": "Evaluaties en functiebeschrijvingen zijn gelinkt aan personeelsdossiers.",
+              "painpoint": "Integratie met bestaande HR-systemen"
             },
             {
-              "id": "gebruikersvriendelijkheid_digitale_ervaringen_gebrek_aan_integratie_met_bestaande_hr_systemen_3",
-              "text": "Gebruikers moeten handmatig data overzetten van het ene systeem naar het andere.",
-              "painpoint": "Gebrek aan integratie met bestaande HR-systemen"
+              "id": "integratie_met_bestaande_hrsystemen_3",
+              "text": "Gebruikers kunnen data automatisch overzetten van het ene systeem naar het andere.",
+              "painpoint": "Integratie met bestaande HR-systemen"
             }
           ]
         }
@@ -372,49 +372,49 @@
           "name": "Vacaturebeheer & Publicatie",
           "statements": [
             {
-              "id": "vacaturebeheer_publicatie_geen_gestroomlijnd_proces_voor_vacaturecreatie_1",
-              "text": "Vacatures worden manueel opgesteld in Word of Excel zonder standaard sjablonen.",
-              "painpoint": "Geen gestroomlijnd proces voor vacaturecreatie"
+              "id": "gestroomlijnd_proces_voor_vacaturecreatie_1",
+              "text": "Vacatures worden opgesteld met standaard sjablonen.",
+              "painpoint": "Gestroomlijnd proces voor vacaturecreatie"
             },
             {
-              "id": "vacaturebeheer_publicatie_geen_gestroomlijnd_proces_voor_vacaturecreatie_2",
-              "text": "Directies en HR-medewerkers besteden te veel tijd aan het telkens opnieuw maken van vacatures.",
-              "painpoint": "Geen gestroomlijnd proces voor vacaturecreatie"
+              "id": "gestroomlijnd_proces_voor_vacaturecreatie_2",
+              "text": "Directies en HR-medewerkers kunnen snel en efficiënt vacatures maken.",
+              "painpoint": "Gestroomlijnd proces voor vacaturecreatie"
             },
             {
-              "id": "vacaturebeheer_publicatie_geen_gestroomlijnd_proces_voor_vacaturecreatie_3",
-              "text": "Geen mogelijkheid om vacaturebeschrijvingen uit het verleden te hergebruiken.",
-              "painpoint": "Geen gestroomlijnd proces voor vacaturecreatie"
+              "id": "gestroomlijnd_proces_voor_vacaturecreatie_3",
+              "text": "Er is mogelijkheid om vacaturebeschrijvingen uit het verleden te hergebruiken.",
+              "painpoint": "Gestroomlijnd proces voor vacaturecreatie"
             },
             {
-              "id": "vacaturebeheer_publicatie_moeilijke_verspreiding_van_vacatures_1",
-              "text": "Vacatures worden handmatig gepubliceerd op verschillende platforms (VDAB, LinkedIn, schoolwebsites).",
-              "painpoint": "Moeilijke verspreiding van vacatures"
+              "id": "eenvoudige_verspreiding_van_vacatures_1",
+              "text": "Vacatures worden automatisch gepubliceerd op verschillende platforms (VDAB, LinkedIn, schoolwebsites).",
+              "painpoint": "Eenvoudige verspreiding van vacatures"
             },
             {
-              "id": "vacaturebeheer_publicatie_moeilijke_verspreiding_van_vacatures_2",
-              "text": "Gebrek aan integratie tussen vacaturebeheer en externe jobportalen.",
-              "painpoint": "Moeilijke verspreiding van vacatures"
+              "id": "eenvoudige_verspreiding_van_vacatures_2",
+              "text": "Er is volledige integratie tussen vacaturebeheer en externe jobportalen.",
+              "painpoint": "Eenvoudige verspreiding van vacatures"
             },
             {
-              "id": "vacaturebeheer_publicatie_moeilijke_verspreiding_van_vacatures_3",
-              "text": "Moeilijk om vacatures eenvoudig door te plaatsen op sociale media of via interne communicatienetwerken.",
-              "painpoint": "Moeilijke verspreiding van vacatures"
+              "id": "eenvoudige_verspreiding_van_vacatures_3",
+              "text": "Vacatures kunnen eenvoudig worden doorgeplaatst op sociale media of via interne communicatienetwerken.",
+              "painpoint": "Eenvoudige verspreiding van vacatures"
             },
             {
-              "id": "vacaturebeheer_publicatie_gebrek_aan_tracking_en_opvolging_van_vacatures_1",
-              "text": "Geen duidelijk overzicht van actieve en gesloten vacatures binnen een school of scholengroep.",
-              "painpoint": "Gebrek aan tracking en opvolging van vacatures"
+              "id": "tracking_en_opvolging_van_vacatures_1",
+              "text": "Er is een duidelijk overzicht van actieve en gesloten vacatures binnen een school of scholengroep.",
+              "painpoint": "Tracking en opvolging van vacatures"
             },
             {
-              "id": "vacaturebeheer_publicatie_gebrek_aan_tracking_en_opvolging_van_vacatures_2",
-              "text": "Moeilijk om te analyseren hoeveel sollicitanten per vacature binnenkomen.",
-              "painpoint": "Gebrek aan tracking en opvolging van vacatures"
+              "id": "tracking_en_opvolging_van_vacatures_2",
+              "text": "Het aantal sollicitanten per vacature wordt automatisch bijgehouden.",
+              "painpoint": "Tracking en opvolging van vacatures"
             },
             {
-              "id": "vacaturebeheer_publicatie_gebrek_aan_tracking_en_opvolging_van_vacatures_3",
-              "text": "Geen mogelijkheid om het succes van verschillende wervingskanalen te meten.",
-              "painpoint": "Gebrek aan tracking en opvolging van vacatures"
+              "id": "tracking_en_opvolging_van_vacatures_3",
+              "text": "Het succes van verschillende wervingskanalen kan gemeten worden.",
+              "painpoint": "Tracking en opvolging van vacatures"
             }
           ]
         },
@@ -423,49 +423,49 @@
           "name": "Sollicitatiebeheer",
           "statements": [
             {
-              "id": "sollicitatiebeheer_moeilijke_en_omslachtige_sollicitatieprocedure_1",
-              "text": "Kandidaten moeten hun sollicitaties manueel per e-mail indienen.",
-              "painpoint": "Moeilijke en omslachtige sollicitatieprocedure"
+              "id": "eenvoudige_en_gestroomlijnde_sollicitatieprocedure_1",
+              "text": "Kandidaten kunnen hun sollicitaties digitaal indienen via een gebruiksvriendelijk platform.",
+              "painpoint": "Eenvoudige en gestroomlijnde sollicitatieprocedure"
             },
             {
-              "id": "sollicitatiebeheer_moeilijke_en_omslachtige_sollicitatieprocedure_2",
-              "text": "Geen uniform sollicitatieformulier, waardoor HR-medewerkers sollicitaties op verschillende manieren binnenkrijgen.",
-              "painpoint": "Moeilijke en omslachtige sollicitatieprocedure"
+              "id": "eenvoudige_en_gestroomlijnde_sollicitatieprocedure_2",
+              "text": "Er is een uniform sollicitatieformulier voor alle vacatures.",
+              "painpoint": "Eenvoudige en gestroomlijnde sollicitatieprocedure"
             },
             {
-              "id": "sollicitatiebeheer_moeilijke_en_omslachtige_sollicitatieprocedure_3",
-              "text": "Geen automatische bevestiging van ontvangst, wat leidt tot onzekerheid bij kandidaten.",
-              "painpoint": "Moeilijke en omslachtige sollicitatieprocedure"
+              "id": "eenvoudige_en_gestroomlijnde_sollicitatieprocedure_3",
+              "text": "Kandidaten ontvangen automatisch een bevestiging van ontvangst.",
+              "painpoint": "Eenvoudige en gestroomlijnde sollicitatieprocedure"
             },
             {
-              "id": "sollicitatiebeheer_slechte_administratie_en_tracking_van_sollicitanten_1",
-              "text": "Directie en HR hebben geen duidelijk overzicht van alle sollicitanten per vacature.",
-              "painpoint": "Slechte administratie en tracking van sollicitanten"
+              "id": "efficinte_administratie_en_tracking_van_sollicitanten_1",
+              "text": "Directie en HR hebben een duidelijk overzicht van alle sollicitanten per vacature.",
+              "painpoint": "Efficiënte administratie en tracking van sollicitanten"
             },
             {
-              "id": "sollicitatiebeheer_slechte_administratie_en_tracking_van_sollicitanten_2",
-              "text": "Geen filtermogelijkheden om kandidaten snel te zoeken op diploma, ervaring of specialisatie.",
-              "painpoint": "Slechte administratie en tracking van sollicitanten"
+              "id": "efficinte_administratie_en_tracking_van_sollicitanten_2",
+              "text": "Er zijn uitgebreide filtermogelijkheden om kandidaten snel te zoeken op diploma, ervaring of specialisatie.",
+              "painpoint": "Efficiënte administratie en tracking van sollicitanten"
             },
             {
-              "id": "sollicitatiebeheer_slechte_administratie_en_tracking_van_sollicitanten_3",
-              "text": "Moeilijk om kandidaten te vergelijken en te beoordelen zonder gestandaardiseerde beoordelingscriteria.",
-              "painpoint": "Slechte administratie en tracking van sollicitanten"
+              "id": "efficinte_administratie_en_tracking_van_sollicitanten_3",
+              "text": "Kandidaten kunnen eenvoudig vergeleken en beoordeeld worden met gestandaardiseerde beoordelingscriteria.",
+              "painpoint": "Efficiënte administratie en tracking van sollicitanten"
             },
             {
-              "id": "sollicitatiebeheer_geen_gestroomlijnd_feedback_en_afwijsproces_1",
-              "text": "Kandidaten krijgen vaak geen terugkoppeling over hun sollicitatie.",
-              "painpoint": "Geen gestroomlijnd feedback- en afwijsproces"
+              "id": "gestroomlijnd_feedback_en_afwijsproces_1",
+              "text": "Kandidaten krijgen tijdig terugkoppeling over hun sollicitatie.",
+              "painpoint": "Gestroomlijnd feedback- en afwijsproces"
             },
             {
-              "id": "sollicitatiebeheer_geen_gestroomlijnd_feedback_en_afwijsproces_2",
-              "text": "Directies en HR-medewerkers hebben geen standaard e-mailsjablonen voor afwijzingen en uitnodigingen.",
-              "painpoint": "Geen gestroomlijnd feedback- en afwijsproces"
+              "id": "gestroomlijnd_feedback_en_afwijsproces_2",
+              "text": "Directies en HR-medewerkers beschikken over standaard e-mailsjablonen voor afwijzingen en uitnodigingen.",
+              "painpoint": "Gestroomlijnd feedback- en afwijsproces"
             },
             {
-              "id": "sollicitatiebeheer_geen_gestroomlijnd_feedback_en_afwijsproces_3",
-              "text": "Moeilijk om feedback van gesprekken intern te delen tussen HR en directie.",
-              "painpoint": "Geen gestroomlijnd feedback- en afwijsproces"
+              "id": "gestroomlijnd_feedback_en_afwijsproces_3",
+              "text": "Feedback van gesprekken kan intern gestructureerd gedeeld worden tussen HR en directie.",
+              "painpoint": "Gestroomlijnd feedback- en afwijsproces"
             }
           ]
         },
@@ -474,49 +474,49 @@
           "name": "Selectie & Beoordeling",
           "statements": [
             {
-              "id": "selectie_beoordeling_geen_objectief_en_gestructureerd_selectieproces_1",
-              "text": "Directies en HR-medewerkers selecteren kandidaten op basis van hun eigen inschatting zonder duidelijke beoordelingscriteria.",
-              "painpoint": "Geen objectief en gestructureerd selectieproces"
+              "id": "objectief_en_gestructureerd_selectieproces_1",
+              "text": "Directies en HR-medewerkers selecteren kandidaten op basis van duidelijke beoordelingscriteria.",
+              "painpoint": "Objectief en gestructureerd selectieproces"
             },
             {
-              "id": "selectie_beoordeling_geen_objectief_en_gestructureerd_selectieproces_2",
-              "text": "Geen scoringssystemen om kandidaten objectief met elkaar te vergelijken.",
-              "painpoint": "Geen objectief en gestructureerd selectieproces"
+              "id": "objectief_en_gestructureerd_selectieproces_2",
+              "text": "Er zijn scoringssystemen om kandidaten objectief met elkaar te vergelijken.",
+              "painpoint": "Objectief en gestructureerd selectieproces"
             },
             {
-              "id": "selectie_beoordeling_geen_objectief_en_gestructureerd_selectieproces_3",
-              "text": "Moeilijk om sollicitatiegesprekken goed voor te bereiden zonder centrale database met kandidaatgegevens.",
-              "painpoint": "Geen objectief en gestructureerd selectieproces"
+              "id": "objectief_en_gestructureerd_selectieproces_3",
+              "text": "Sollicitatiegesprekken worden goed voorbereid met behulp van een centrale database met kandidaatgegevens.",
+              "painpoint": "Objectief en gestructureerd selectieproces"
             },
             {
-              "id": "selectie_beoordeling_gebrek_aan_gestructureerde_interviewprocessen_1",
-              "text": "Sollicitatiegesprekken worden ad hoc ingepland zonder duidelijke workflow.",
-              "painpoint": "Gebrek aan gestructureerde interviewprocessen"
+              "id": "gestructureerde_interviewprocessen_1",
+              "text": "Sollicitatiegesprekken worden systematisch ingepland volgens een duidelijke workflow.",
+              "painpoint": "Gestructureerde interviewprocessen"
             },
             {
-              "id": "selectie_beoordeling_gebrek_aan_gestructureerde_interviewprocessen_2",
-              "text": "Geen standaardvragenlijsten of beoordelingscriteria voor interviews.",
-              "painpoint": "Gebrek aan gestructureerde interviewprocessen"
+              "id": "gestructureerde_interviewprocessen_2",
+              "text": "Er zijn standaardvragenlijsten en beoordelingscriteria voor interviews.",
+              "painpoint": "Gestructureerde interviewprocessen"
             },
             {
-              "id": "selectie_beoordeling_gebrek_aan_gestructureerde_interviewprocessen_3",
-              "text": "Moeilijk om feedback over kandidaten op een gestructureerde manier vast te leggen.",
-              "painpoint": "Gebrek aan gestructureerde interviewprocessen"
+              "id": "gestructureerde_interviewprocessen_3",
+              "text": "Feedback over kandidaten wordt op een gestructureerde manier vastgelegd.",
+              "painpoint": "Gestructureerde interviewprocessen"
             },
             {
-              "id": "selectie_beoordeling_geen_co_rdinatie_tussen_verschillende_betrokkenen_1",
-              "text": "Verschillende mensen (directie, HR, vakcoördinatoren) zijn betrokken, maar hebben geen gezamenlijke tool om informatie te delen.",
-              "painpoint": "Geen coördinatie tussen verschillende betrokkenen"
+              "id": "cordinatie_tussen_verschillende_betrokkenen_bij_het_selectieproces_1",
+              "text": "Verschillende mensen (directie, HR, vakcoördinatoren) delen informatie via een gezamenlijke tool.",
+              "painpoint": "Coördinatie tussen verschillende betrokkenen bij het selectieproces"
             },
             {
-              "id": "selectie_beoordeling_geen_co_rdinatie_tussen_verschillende_betrokkenen_2",
-              "text": "Geen mogelijkheid om sollicitaties parallel door meerdere personen te laten beoordelen.",
-              "painpoint": "Geen coördinatie tussen verschillende betrokkenen"
+              "id": "cordinatie_tussen_verschillende_betrokkenen_bij_het_selectieproces_2",
+              "text": "Sollicitaties kunnen parallel door meerdere personen beoordeeld worden.",
+              "painpoint": "Coördinatie tussen verschillende betrokkenen bij het selectieproces"
             },
             {
-              "id": "selectie_beoordeling_geen_co_rdinatie_tussen_verschillende_betrokkenen_3",
-              "text": "HR-medewerkers verliezen veel tijd aan het coördineren en doorsturen van sollicitaties.",
-              "painpoint": "Geen coördinatie tussen verschillende betrokkenen"
+              "id": "cordinatie_tussen_verschillende_betrokkenen_bij_het_selectieproces_3",
+              "text": "HR-medewerkers kunnen efficiënt sollicitaties coördineren en doorsturen.",
+              "painpoint": "Coördinatie tussen verschillende betrokkenen bij het selectieproces"
             }
           ]
         },
@@ -525,49 +525,49 @@
           "name": "Talent Pools & Wervingsreserves",
           "statements": [
             {
-              "id": "talent_pools_wervingsreserves_geen_centrale_database_met_potenti_le_kandidaten_1",
-              "text": "HR en directie moeten steeds opnieuw werven, zonder een historiek van eerdere sollicitanten te raadplegen.",
-              "painpoint": "Geen centrale database met potentiële kandidaten"
+              "id": "centrale_database_met_potentile_kandidaten_1",
+              "text": "HR en directie kunnen een historiek van eerdere sollicitanten raadplegen.",
+              "painpoint": "Centrale database met potentiële kandidaten"
             },
             {
-              "id": "talent_pools_wervingsreserves_geen_centrale_database_met_potenti_le_kandidaten_2",
-              "text": "Goede kandidaten uit het verleden worden niet opnieuw benaderd.",
-              "painpoint": "Geen centrale database met potentiële kandidaten"
+              "id": "centrale_database_met_potentile_kandidaten_2",
+              "text": "Goede kandidaten uit het verleden worden opnieuw benaderd.",
+              "painpoint": "Centrale database met potentiële kandidaten"
             },
             {
-              "id": "talent_pools_wervingsreserves_geen_centrale_database_met_potenti_le_kandidaten_3",
-              "text": "Geen mogelijkheid om interessante kandidaten uit een vorige sollicitatieronde op te slaan en te hergebruiken.",
-              "painpoint": "Geen centrale database met potentiële kandidaten"
+              "id": "centrale_database_met_potentile_kandidaten_3",
+              "text": "Interessante kandidaten uit een vorige sollicitatieronde worden opgeslagen en hergebruikt.",
+              "painpoint": "Centrale database met potentiële kandidaten"
             },
             {
-              "id": "talent_pools_wervingsreserves_gebrek_aan_een_pool_van_vervangers_1",
-              "text": "Geen centrale lijst met beschikbare interim-leerkrachten of vervangers.",
-              "painpoint": "Gebrek aan een pool van vervangers"
+              "id": "pool_van_vervangers_voor_snelle_inzet_1",
+              "text": "Er is een centrale lijst met beschikbare interim-leerkrachten of vervangers.",
+              "painpoint": "Pool van vervangers voor snelle inzet"
             },
             {
-              "id": "talent_pools_wervingsreserves_gebrek_aan_een_pool_van_vervangers_2",
-              "text": "Moeilijk om snel een vervanger te vinden bij ziekte of onverwachte afwezigheid.",
-              "painpoint": "Gebrek aan een pool van vervangers"
+              "id": "pool_van_vervangers_voor_snelle_inzet_2",
+              "text": "Bij ziekte of onverwachte afwezigheid kan snel een vervanger gevonden worden.",
+              "painpoint": "Pool van vervangers voor snelle inzet"
             },
             {
-              "id": "talent_pools_wervingsreserves_gebrek_aan_een_pool_van_vervangers_3",
-              "text": "Geen automatische match tussen beschikbare kandidaten en openstaande vacatures.",
-              "painpoint": "Gebrek aan een pool van vervangers"
+              "id": "pool_van_vervangers_voor_snelle_inzet_3",
+              "text": "Er is automatische matching tussen beschikbare kandidaten en openstaande vacatures.",
+              "painpoint": "Pool van vervangers voor snelle inzet"
             },
             {
-              "id": "talent_pools_wervingsreserves_geen_up_to_date_beschikbaarheidsbeheer_voor_kandidaten_1",
-              "text": "Kandidaten in de talentpool kunnen hun beschikbaarheid niet aangeven.",
-              "painpoint": "Geen up-to-date beschikbaarheidsbeheer voor kandidaten"
+              "id": "uptodate_beschikbaarheidsbeheer_voor_kandidaten_1",
+              "text": "Kandidaten in de talentpool kunnen hun beschikbaarheid aangeven.",
+              "painpoint": "Up-to-date beschikbaarheidsbeheer voor kandidaten"
             },
             {
-              "id": "talent_pools_wervingsreserves_geen_up_to_date_beschikbaarheidsbeheer_voor_kandidaten_2",
-              "text": "Directies en HR-medewerkers moeten handmatig contact opnemen om beschikbaarheid te checken.",
-              "painpoint": "Geen up-to-date beschikbaarheidsbeheer voor kandidaten"
+              "id": "uptodate_beschikbaarheidsbeheer_voor_kandidaten_2",
+              "text": "Directies en HR-medewerkers zien direct wie beschikbaar is zonder handmatig contact te moeten opnemen.",
+              "painpoint": "Up-to-date beschikbaarheidsbeheer voor kandidaten"
             },
             {
-              "id": "talent_pools_wervingsreserves_geen_up_to_date_beschikbaarheidsbeheer_voor_kandidaten_3",
-              "text": "Geen automatische matching tussen openstaande vacatures en kandidaten die beschikbaar zijn.",
-              "painpoint": "Geen up-to-date beschikbaarheidsbeheer voor kandidaten"
+              "id": "uptodate_beschikbaarheidsbeheer_voor_kandidaten_3",
+              "text": "Er is automatische matching tussen openstaande vacatures en kandidaten die beschikbaar zijn.",
+              "painpoint": "Up-to-date beschikbaarheidsbeheer voor kandidaten"
             }
           ]
         },
@@ -576,49 +576,49 @@
           "name": "Onboarding & Startende Medewerkers",
           "statements": [
             {
-              "id": "onboarding_startende_medewerkers_geen_gestructureerde_onboarding_1",
-              "text": "Startende medewerkers krijgen geen duidelijke introductie over hun school en hun rol.",
-              "painpoint": "Geen gestructureerde onboarding"
+              "id": "gestructureerde_onboarding_voor_nieuwe_medewerkers_1",
+              "text": "Startende medewerkers krijgen een duidelijke introductie over hun school en hun rol.",
+              "painpoint": "Gestructureerde onboarding voor nieuwe medewerkers"
             },
             {
-              "id": "onboarding_startende_medewerkers_geen_gestructureerde_onboarding_2",
-              "text": "Geen uniform onboardingtraject voor nieuwe leerkrachten binnen een scholengroep.",
-              "painpoint": "Geen gestructureerde onboarding"
+              "id": "gestructureerde_onboarding_voor_nieuwe_medewerkers_2",
+              "text": "Er is een uniform onboardingtraject voor nieuwe leerkrachten binnen een scholengroep.",
+              "painpoint": "Gestructureerde onboarding voor nieuwe medewerkers"
             },
             {
-              "id": "onboarding_startende_medewerkers_geen_gestructureerde_onboarding_3",
-              "text": "Geen mogelijkheid om belangrijke documenten digitaal te delen.",
-              "painpoint": "Geen gestructureerde onboarding"
+              "id": "gestructureerde_onboarding_voor_nieuwe_medewerkers_3",
+              "text": "Belangrijke documenten (functieomschrijving, beleidsdocumenten) worden digitaal gedeeld.",
+              "painpoint": "Gestructureerde onboarding voor nieuwe medewerkers"
             },
             {
-              "id": "onboarding_startende_medewerkers_gebrek_aan_mentoring_en_begeleiding_1",
-              "text": "Nieuwe medewerkers worden vaak aan hun lot overgelaten zonder mentor of coach.",
-              "painpoint": "Gebrek aan mentoring en begeleiding"
+              "id": "mentoring_en_begeleiding_in_de_eerste_maanden_1",
+              "text": "Nieuwe medewerkers krijgen een mentor of coach toegewezen.",
+              "painpoint": "Mentoring en begeleiding in de eerste maanden"
             },
             {
-              "id": "onboarding_startende_medewerkers_gebrek_aan_mentoring_en_begeleiding_2",
-              "text": "Geen gestructureerd systeem voor opvolging van startende leerkrachten.",
-              "painpoint": "Gebrek aan mentoring en begeleiding"
+              "id": "mentoring_en_begeleiding_in_de_eerste_maanden_2",
+              "text": "Er is een gestructureerd systeem voor opvolging van startende leerkrachten.",
+              "painpoint": "Mentoring en begeleiding in de eerste maanden"
             },
             {
-              "id": "onboarding_startende_medewerkers_gebrek_aan_mentoring_en_begeleiding_3",
-              "text": "Moeilijk om te meten of onboarding effectief verloopt en of startende medewerkers zich voldoende ondersteund voelen.",
-              "painpoint": "Gebrek aan mentoring en begeleiding"
+              "id": "mentoring_en_begeleiding_in_de_eerste_maanden_3",
+              "text": "De effectiviteit van onboarding wordt gemeten en startende medewerkers voelen zich voldoende ondersteund.",
+              "painpoint": "Mentoring en begeleiding in de eerste maanden"
             },
             {
-              "id": "onboarding_startende_medewerkers_onboarding_is_niet_gekoppeld_aan_hr_administratie_1",
-              "text": "HR moet manueel contracten en documenten verzamelen van nieuwe medewerkers.",
-              "painpoint": "Onboarding is niet gekoppeld aan HR-administratie"
+              "id": "onboarding_is_gekoppeld_aan_hradministratie_1",
+              "text": "HR kan contracten en documenten automatisch verzamelen van nieuwe medewerkers.",
+              "painpoint": "Onboarding is gekoppeld aan HR-administratie"
             },
             {
-              "id": "onboarding_startende_medewerkers_onboarding_is_niet_gekoppeld_aan_hr_administratie_2",
-              "text": "Geen automatische koppeling met personeelsdossiers en loonadministratie.",
-              "painpoint": "Onboarding is niet gekoppeld aan HR-administratie"
+              "id": "onboarding_is_gekoppeld_aan_hradministratie_2",
+              "text": "Er is automatische koppeling met personeelsdossiers en loonadministratie.",
+              "painpoint": "Onboarding is gekoppeld aan HR-administratie"
             },
             {
-              "id": "onboarding_startende_medewerkers_onboarding_is_niet_gekoppeld_aan_hr_administratie_3",
-              "text": "Nieuwe medewerkers moeten hun gegevens meerdere keren aanleveren in verschillende systemen.",
-              "painpoint": "Onboarding is niet gekoppeld aan HR-administratie"
+              "id": "onboarding_is_gekoppeld_aan_hradministratie_3",
+              "text": "Nieuwe medewerkers hoeven hun gegevens slechts eenmaal aan te leveren.",
+              "painpoint": "Onboarding is gekoppeld aan HR-administratie"
             }
           ]
         },
@@ -627,34 +627,34 @@
           "name": "Compliance & Wettelijke Vereisten",
           "statements": [
             {
-              "id": "compliance_wettelijke_vereisten_niet_voldoen_aan_wettelijke_verplichtingen_rond_tadd_en_tabd_1",
-              "text": "Geen automatische controle of tijdelijke leerkrachten voldoen aan de vereisten voor TADD.",
-              "painpoint": "Niet voldoen aan wettelijke verplichtingen rond TADD en TABD"
+              "id": "voldoen_aan_wettelijke_verplichtingen_rond_tadd_en_tabd_1",
+              "text": "Er is automatische controle of tijdelijke leerkrachten voldoen aan de vereisten voor TADD.",
+              "painpoint": "Voldoen aan wettelijke verplichtingen rond TADD en TABD"
             },
             {
-              "id": "compliance_wettelijke_vereisten_niet_voldoen_aan_wettelijke_verplichtingen_rond_tadd_en_tabd_2",
-              "text": "Moeilijk om het juiste moment te bepalen waarop een medewerker in aanmerking komt voor vastbenoeming.",
-              "painpoint": "Niet voldoen aan wettelijke verplichtingen rond TADD en TABD"
+              "id": "voldoen_aan_wettelijke_verplichtingen_rond_tadd_en_tabd_2",
+              "text": "Het juiste moment waarop een medewerker in aanmerking komt voor vastbenoeming wordt automatisch bepaald.",
+              "painpoint": "Voldoen aan wettelijke verplichtingen rond TADD en TABD"
             },
             {
-              "id": "compliance_wettelijke_vereisten_niet_voldoen_aan_wettelijke_verplichtingen_rond_tadd_en_tabd_3",
-              "text": "HR en directies moeten handmatig opvolgen wie in aanmerking komt voor doorlopende duur.",
-              "painpoint": "Niet voldoen aan wettelijke verplichtingen rond TADD en TABD"
+              "id": "voldoen_aan_wettelijke_verplichtingen_rond_tadd_en_tabd_3",
+              "text": "HR en directies kunnen digitaal opvolgen wie in aanmerking komt voor doorlopende duur.",
+              "painpoint": "Voldoen aan wettelijke verplichtingen rond TADD en TABD"
             },
             {
-              "id": "compliance_wettelijke_vereisten_geen_correcte_registratie_van_verplichte_aanvangsbegeleiding_1",
-              "text": "Nieuwe medewerkers moeten een verplichte aanvangsbegeleiding volgen, maar er is geen gestructureerde opvolging.",
-              "painpoint": "Geen correcte registratie van verplichte aanvangsbegeleiding"
+              "id": "correcte_registratie_van_verplichte_aanvangsbegeleiding_1",
+              "text": "Nieuwe medewerkers volgen een gestructureerde verplichte aanvangsbegeleiding.",
+              "painpoint": "Correcte registratie van verplichte aanvangsbegeleiding"
             },
             {
-              "id": "compliance_wettelijke_vereisten_geen_correcte_registratie_van_verplichte_aanvangsbegeleiding_2",
-              "text": "Geen centrale plek waar mentorverslagen en opvolgdocumenten worden bijgehouden.",
-              "painpoint": "Geen correcte registratie van verplichte aanvangsbegeleiding"
+              "id": "correcte_registratie_van_verplichte_aanvangsbegeleiding_2",
+              "text": "Er is een centrale plek waar mentorverslagen en opvolgdocumenten worden bijgehouden.",
+              "painpoint": "Correcte registratie van verplichte aanvangsbegeleiding"
             },
             {
-              "id": "compliance_wettelijke_vereisten_geen_correcte_registratie_van_verplichte_aanvangsbegeleiding_3",
-              "text": "Moeilijk om aan inspectie of regelgeving te voldoen zonder gestructureerde rapportage.",
-              "painpoint": "Geen correcte registratie van verplichte aanvangsbegeleiding"
+              "id": "correcte_registratie_van_verplichte_aanvangsbegeleiding_3",
+              "text": "Aan inspectie of regelgeving wordt voldaan dankzij gestructureerde rapportage.",
+              "painpoint": "Correcte registratie van verplichte aanvangsbegeleiding"
             }
           ]
         },
@@ -663,49 +663,49 @@
           "name": "Gebruiksvriendelijkheid & Digitalisering",
           "statements": [
             {
-              "id": "gebruiksvriendelijkheid_digitalisering_te_veel_administratieve_last_1",
-              "text": "Wervings- en onboardingprocessen zijn niet geautomatiseerd en kosten te veel tijd.",
-              "painpoint": "Te veel administratieve last"
+              "id": "minimale_administratieve_last_bij_directies_en_hr_1",
+              "text": "Wervings- en onboardingprocessen zijn geautomatiseerd en efficiënt.",
+              "painpoint": "Minimale administratieve last bij directies en HR"
             },
             {
-              "id": "gebruiksvriendelijkheid_digitalisering_te_veel_administratieve_last_2",
-              "text": "Directies en HR moeten kandidaten manueel door de selectieprocedure loodsen.",
-              "painpoint": "Te veel administratieve last"
+              "id": "minimale_administratieve_last_bij_directies_en_hr_2",
+              "text": "Directies en HR kunnen kandidaten automatisch door de selectieprocedure loodsen.",
+              "painpoint": "Minimale administratieve last bij directies en HR"
             },
             {
-              "id": "gebruiksvriendelijkheid_digitalisering_te_veel_administratieve_last_3",
-              "text": "Veel dubbele invoer van gegevens in verschillende systemen.",
-              "painpoint": "Te veel administratieve last"
+              "id": "minimale_administratieve_last_bij_directies_en_hr_3",
+              "text": "Gegevens worden eenmalig ingevoerd en automatisch gedeeld tussen systemen.",
+              "painpoint": "Minimale administratieve last bij directies en HR"
             },
             {
-              "id": "gebruiksvriendelijkheid_digitalisering_gebrek_aan_integratie_met_bestaande_hr_systemen_1",
-              "text": "Geen automatische koppeling met Agodi of iPersoneel.",
-              "painpoint": "Gebrek aan integratie met bestaande HR-systemen"
+              "id": "integratie_met_bestaande_hrsystemen_1",
+              "text": "Er is automatische koppeling met Agodi en iPersoneel.",
+              "painpoint": "Integratie met bestaande HR-systemen"
             },
             {
-              "id": "gebruiksvriendelijkheid_digitalisering_gebrek_aan_integratie_met_bestaande_hr_systemen_2",
-              "text": "Personeelsgegevens worden niet automatisch overgezet naar de HR-database.",
-              "painpoint": "Gebrek aan integratie met bestaande HR-systemen"
+              "id": "integratie_met_bestaande_hrsystemen_2",
+              "text": "Personeelsgegevens worden automatisch overgezet naar de HR-database.",
+              "painpoint": "Integratie met bestaande HR-systemen"
             },
             {
-              "id": "gebruiksvriendelijkheid_digitalisering_gebrek_aan_integratie_met_bestaande_hr_systemen_3",
-              "text": "Moeilijk om rekrutering en onboarding te koppelen aan personeelsplanning.",
-              "painpoint": "Gebrek aan integratie met bestaande HR-systemen"
+              "id": "integratie_met_bestaande_hrsystemen_3",
+              "text": "Rekrutering en onboarding zijn gekoppeld aan personeelsplanning.",
+              "painpoint": "Integratie met bestaande HR-systemen"
             },
             {
-              "id": "gebruiksvriendelijkheid_digitalisering_geen_overzicht_voor_kandidaten_1",
-              "text": "Sollicitanten weten niet waar ze staan in het selectieproces.",
-              "painpoint": "Geen overzicht voor kandidaten"
+              "id": "duidelijk_overzicht_voor_kandidaten_1",
+              "text": "Sollicitanten weten precies waar ze staan in het selectieproces.",
+              "painpoint": "Duidelijk overzicht voor kandidaten"
             },
             {
-              "id": "gebruiksvriendelijkheid_digitalisering_geen_overzicht_voor_kandidaten_2",
-              "text": "Geen persoonlijke login of dashboard waar kandidaten hun status kunnen volgen.",
-              "painpoint": "Geen overzicht voor kandidaten"
+              "id": "duidelijk_overzicht_voor_kandidaten_2",
+              "text": "Er is een persoonlijke login of dashboard waar kandidaten hun status kunnen volgen.",
+              "painpoint": "Duidelijk overzicht voor kandidaten"
             },
             {
-              "id": "gebruiksvriendelijkheid_digitalisering_geen_overzicht_voor_kandidaten_3",
-              "text": "Moeilijk om communication structured...",
-              "painpoint": "Geen overzicht voor kandidaten"
+              "id": "duidelijk_overzicht_voor_kandidaten_3",
+              "text": "Communicatie met kandidaten verloopt gestructureerd.",
+              "painpoint": "Duidelijk overzicht voor kandidaten"
             }
           ]
         }
@@ -720,49 +720,49 @@
           "name": "Persoonlijke Gegevensbeheer",
           "statements": [
             {
-              "id": "persoonlijke_gegevensbeheer_geen_centrale_plek_om_persoonlijke_gegevens_te_beheren_1",
-              "text": "Personeelsleden moeten wijzigingen in persoonlijke gegevens via e-mail of papieren formulieren doorgeven.",
-              "painpoint": "Geen centrale plek om persoonlijke gegevens te beheren"
+              "id": "centrale_plek_om_persoonlijke_gegevens_te_beheren_1",
+              "text": "Personeelsleden kunnen wijzigingen in persoonlijke gegevens (adres, telefoonnummer, noodcontacten) digitaal doorgeven.",
+              "painpoint": "Centrale plek om persoonlijke gegevens te beheren"
             },
             {
-              "id": "persoonlijke_gegevensbeheer_geen_centrale_plek_om_persoonlijke_gegevens_te_beheren_2",
-              "text": "Geen selfserviceportaal waarin medewerkers hun eigen gegevens kunnen aanpassen.",
-              "painpoint": "Geen centrale plek om persoonlijke gegevens te beheren"
+              "id": "centrale_plek_om_persoonlijke_gegevens_te_beheren_2",
+              "text": "Er is een selfserviceportaal waarin medewerkers hun eigen gegevens kunnen aanpassen.",
+              "painpoint": "Centrale plek om persoonlijke gegevens te beheren"
             },
             {
-              "id": "persoonlijke_gegevensbeheer_geen_centrale_plek_om_persoonlijke_gegevens_te_beheren_3",
-              "text": "HR-medewerkers moeten veel tijd besteden aan het manueel bijwerken van gegevens.",
-              "painpoint": "Geen centrale plek om persoonlijke gegevens te beheren"
+              "id": "centrale_plek_om_persoonlijke_gegevens_te_beheren_3",
+              "text": "HR-medewerkers besteden minimale tijd aan het bijwerken van gegevens.",
+              "painpoint": "Centrale plek om persoonlijke gegevens te beheren"
             },
             {
-              "id": "persoonlijke_gegevensbeheer_gebrek_aan_automatische_koppeling_met_hr_systemen_1",
-              "text": "Geen automatische synchronisatie met Agodi en iPersoneel.",
-              "painpoint": "Gebrek aan automatische koppeling met HR-systemen"
+              "id": "automatische_koppeling_met_hrsystemen_1",
+              "text": "Er is automatische synchronisatie met Agodi en iPersoneel.",
+              "painpoint": "Automatische koppeling met HR-systemen"
             },
             {
-              "id": "persoonlijke_gegevensbeheer_gebrek_aan_automatische_koppeling_met_hr_systemen_2",
-              "text": "Personeelsleden moeten hun gegevens meerdere keren doorgeven voor verschillende doeleinden.",
-              "painpoint": "Gebrek aan automatische koppeling met HR-systemen"
+              "id": "automatische_koppeling_met_hrsystemen_2",
+              "text": "Personeelsleden hoeven hun gegevens slechts eenmaal door te geven voor verschillende doeleinden (verlofaanvraag, contractwijziging, loonadministratie).",
+              "painpoint": "Automatische koppeling met HR-systemen"
             },
             {
-              "id": "persoonlijke_gegevensbeheer_gebrek_aan_automatische_koppeling_met_hr_systemen_3",
-              "text": "Geen koppeling tussen persoonlijke gegevens en schoolgebonden administratieve processen.",
-              "painpoint": "Gebrek aan automatische koppeling met HR-systemen"
+              "id": "automatische_koppeling_met_hrsystemen_3",
+              "text": "Er is volledige koppeling tussen persoonlijke gegevens en schoolgebonden administratieve processen.",
+              "painpoint": "Automatische koppeling met HR-systemen"
             },
             {
-              "id": "persoonlijke_gegevensbeheer_geen_mogelijkheid_om_gezins_en_zorgsituatie_te_registreren_1",
-              "text": "Personeelsleden kunnen geen informatie over ouderschapsverlof, mantelzorg of gezinsuitbreiding doorgeven via een digitale tool.",
-              "painpoint": "Geen mogelijkheid om gezins- en zorgsituatie te registreren"
+              "id": "mogelijkheid_om_gezins_en_zorgsituatie_te_registreren_1",
+              "text": "Personeelsleden kunnen informatie over ouderschapsverlof, mantelzorg of gezinsuitbreiding doorgeven via een digitale tool.",
+              "painpoint": "Mogelijkheid om gezins- en zorgsituatie te registreren"
             },
             {
-              "id": "persoonlijke_gegevensbeheer_geen_mogelijkheid_om_gezins_en_zorgsituatie_te_registreren_2",
-              "text": "HR-afdeling mist zicht op personeelsleden met specifieke verlofrechten.",
-              "painpoint": "Geen mogelijkheid om gezins- en zorgsituatie te registreren"
+              "id": "mogelijkheid_om_gezins_en_zorgsituatie_te_registreren_2",
+              "text": "HR-afdeling heeft zicht op personeelsleden met specifieke verlofrechten (bv. voor zorgverlof).",
+              "painpoint": "Mogelijkheid om gezins- en zorgsituatie te registreren"
             },
             {
-              "id": "persoonlijke_gegevensbeheer_geen_mogelijkheid_om_gezins_en_zorgsituatie_te_registreren_3",
-              "text": "Geen overzicht van personeelsleden die recht hebben op specifieke premies of tegemoetkomingen.",
-              "painpoint": "Geen mogelijkheid om gezins- en zorgsituatie te registreren"
+              "id": "mogelijkheid_om_gezins_en_zorgsituatie_te_registreren_3",
+              "text": "Er is een overzicht van personeelsleden die recht hebben op specifieke premies of tegemoetkomingen.",
+              "painpoint": "Mogelijkheid om gezins- en zorgsituatie te registreren"
             }
           ]
         },
@@ -771,64 +771,64 @@
           "name": "Afwezigheden en Verlofaanvragen",
           "statements": [
             {
-              "id": "afwezigheden_en_verlofaanvragen_moeilijk_en_ineffici_nt_proces_voor_verlofaanvragen_1",
-              "text": "Personeelsleden moeten verlof aanvragen via e-mail of papieren formulieren.",
-              "painpoint": "Moeilijk en inefficiënt proces voor verlofaanvragen"
+              "id": "efficint_proces_voor_verlofaanvragen_1",
+              "text": "Personeelsleden kunnen verlof aanvragen via een digitaal platform.",
+              "painpoint": "Efficiënt proces voor verlofaanvragen"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_moeilijk_en_ineffici_nt_proces_voor_verlofaanvragen_2",
-              "text": "HR moet verlofaanvragen manueel verwerken, wat foutgevoelig en tijdrovend is.",
-              "painpoint": "Moeilijk en inefficiënt proces voor verlofaanvragen"
+              "id": "efficint_proces_voor_verlofaanvragen_2",
+              "text": "HR kan verlofaanvragen automatisch verwerken zonder fouten.",
+              "painpoint": "Efficiënt proces voor verlofaanvragen"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_moeilijk_en_ineffici_nt_proces_voor_verlofaanvragen_3",
-              "text": "Geen mogelijkheid om het resterend verlofsaldo zelf te raadplegen.",
-              "painpoint": "Moeilijk en inefficiënt proces voor verlofaanvragen"
+              "id": "efficint_proces_voor_verlofaanvragen_3",
+              "text": "Medewerkers kunnen hun resterend verlofsaldo zelf raadplegen.",
+              "painpoint": "Efficiënt proces voor verlofaanvragen"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_geen_digitaal_goedkeuringsproces_1",
-              "text": "Directeurs en HR-medewerkers moeten verlofaanvragen manueel goedkeuren en registreren.",
-              "painpoint": "Geen digitaal goedkeuringsproces"
+              "id": "digitaal_goedkeuringsproces_1",
+              "text": "Directeurs en HR-medewerkers kunnen verlofaanvragen digitaal goedkeuren en registreren.",
+              "painpoint": "Digitaal goedkeuringsproces"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_geen_digitaal_goedkeuringsproces_2",
-              "text": "Geen geautomatiseerde workflow om goedkeuringen te stroomlijnen.",
-              "painpoint": "Geen digitaal goedkeuringsproces"
+              "id": "digitaal_goedkeuringsproces_2",
+              "text": "Er is een geautomatiseerde workflow om goedkeuringen te stroomlijnen.",
+              "painpoint": "Digitaal goedkeuringsproces"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_geen_digitaal_goedkeuringsproces_3",
-              "text": "Personeelsleden moeten vaak navragen of hun verlof goedgekeurd is.",
-              "painpoint": "Geen digitaal goedkeuringsproces"
+              "id": "digitaal_goedkeuringsproces_3",
+              "text": "Personeelsleden worden automatisch geïnformeerd wanneer hun verlof is goedgekeurd.",
+              "painpoint": "Digitaal goedkeuringsproces"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_geen_overzicht_van_verlof_en_ziektehistoriek_1",
-              "text": "Personeelsleden kunnen hun historische afwezigheden niet raadplegen.",
-              "painpoint": "Geen overzicht van verlof- en ziektehistoriek"
+              "id": "overzicht_van_verlof_en_ziektehistoriek_1",
+              "text": "Personeelsleden kunnen hun historische afwezigheden raadplegen.",
+              "painpoint": "Overzicht van verlof- en ziektehistoriek"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_geen_overzicht_van_verlof_en_ziektehistoriek_2",
-              "text": "HR en directie hebben geen zicht op terugkerende afwezigheidspatronen.",
-              "painpoint": "Geen overzicht van verlof- en ziektehistoriek"
+              "id": "overzicht_van_verlof_en_ziektehistoriek_2",
+              "text": "HR en directie hebben zicht op afwezigheidspatronen.",
+              "painpoint": "Overzicht van verlof- en ziektehistoriek"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_geen_overzicht_van_verlof_en_ziektehistoriek_3",
-              "text": "Geen automatisch gegenereerde rapporten over afwezigheden per schooljaar.",
-              "painpoint": "Geen overzicht van verlof- en ziektehistoriek"
+              "id": "overzicht_van_verlof_en_ziektehistoriek_3",
+              "text": "Er zijn automatisch gegenereerde rapporten over afwezigheden per schooljaar.",
+              "painpoint": "Overzicht van verlof- en ziektehistoriek"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_geen_digitaal_proces_voor_ziekteverlof_1",
-              "text": "Personeelsleden kunnen ziekteverlof niet online registreren.",
-              "painpoint": "Geen digitaal proces voor ziekteverlof"
+              "id": "digitaal_proces_voor_ziekteverlof_1",
+              "text": "Personeelsleden kunnen ziekteverlof online registreren.",
+              "painpoint": "Digitaal proces voor ziekteverlof"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_geen_digitaal_proces_voor_ziekteverlof_2",
-              "text": "Geen mogelijkheid om een doktersattest digitaal te uploaden.",
-              "painpoint": "Geen digitaal proces voor ziekteverlof"
+              "id": "digitaal_proces_voor_ziekteverlof_2",
+              "text": "Er is mogelijkheid om een doktersattest digitaal te uploaden.",
+              "painpoint": "Digitaal proces voor ziekteverlof"
             },
             {
-              "id": "afwezigheden_en_verlofaanvragen_geen_digitaal_proces_voor_ziekteverlof_3",
-              "text": "HR-medewerkers moeten ziektemeldingen manueel verwerken.",
-              "painpoint": "Geen digitaal proces voor ziekteverlof"
+              "id": "digitaal_proces_voor_ziekteverlof_3",
+              "text": "HR-medewerkers kunnen ziektemeldingen automatisch verwerken.",
+              "painpoint": "Digitaal proces voor ziekteverlof"
             }
           ]
         },
@@ -837,100 +837,100 @@
           "name": "Tijdregistratie en Uurroosters",
           "statements": [
             {
-              "id": "tijdregistratie_en_uurroosters_geen_duidelijk_overzicht_van_lesopdrachten_en_uurroosters_1",
-              "text": "Personeelsleden weten niet altijd welke lesuren ze hebben in een bepaalde periode.",
-              "painpoint": "Geen duidelijk overzicht van lesopdrachten en uurroosters"
+              "id": "duidelijk_overzicht_van_lesopdrachten_en_uurroosters_1",
+              "text": "Personeelsleden weten precies welke lesuren ze hebben in een bepaalde periode.",
+              "painpoint": "Duidelijk overzicht van lesopdrachten en uurroosters"
             },
             {
-              "id": "tijdregistratie_en_uurroosters_geen_duidelijk_overzicht_van_lesopdrachten_en_uurroosters_2",
-              "text": "Directeurs kunnen niet eenvoudig inzien welke personeelsleden wanneer beschikbaar zijn.",
-              "painpoint": "Geen duidelijk overzicht van lesopdrachten en uurroosters"
+              "id": "duidelijk_overzicht_van_lesopdrachten_en_uurroosters_2",
+              "text": "Directeurs kunnen eenvoudig inzien welke personeelsleden wanneer beschikbaar zijn.",
+              "painpoint": "Duidelijk overzicht van lesopdrachten en uurroosters"
             },
             {
-              "id": "tijdregistratie_en_uurroosters_geen_duidelijk_overzicht_van_lesopdrachten_en_uurroosters_3",
-              "text": "Geen mogelijkheid om wijzigingen in lesopdrachten real-time te communiceren.",
-              "painpoint": "Geen duidelijk overzicht van lesopdrachten en uurroosters"
+              "id": "duidelijk_overzicht_van_lesopdrachten_en_uurroosters_3",
+              "text": "Wijzigingen in lesopdrachten worden real-time gecommuniceerd.",
+              "painpoint": "Duidelijk overzicht van lesopdrachten en uurroosters"
             },
             {
-              "id": "tijdregistratie_en_uurroosters_geen_mogelijkheid_om_overuren_en_extra_prestaties_te_registreren_1",
-              "text": "Leerkrachten kunnen overuren en vervangingen niet digitaal registreren.",
-              "painpoint": "Geen mogelijkheid om overuren en extra prestaties te registreren"
+              "id": "mogelijkheid_om_overuren_en_extra_prestaties_te_registreren_1",
+              "text": "Leerkrachten kunnen overuren en vervangingen digitaal registreren.",
+              "painpoint": "Mogelijkheid om overuren en extra prestaties te registreren"
             },
             {
-              "id": "tijdregistratie_en_uurroosters_geen_mogelijkheid_om_overuren_en_extra_prestaties_te_registreren_2",
-              "text": "HR moet extra prestaties manueel bijhouden en verwerken.",
-              "painpoint": "Geen mogelijkheid om overuren en extra prestaties te registreren"
+              "id": "mogelijkheid_om_overuren_en_extra_prestaties_te_registreren_2",
+              "text": "HR kan extra prestaties automatisch bijhouden en verwerken.",
+              "painpoint": "Mogelijkheid om overuren en extra prestaties te registreren"
             },
             {
-              "id": "tijdregistratie_en_uurroosters_geen_mogelijkheid_om_overuren_en_extra_prestaties_te_registreren_3",
-              "text": "Geen geautomatiseerd systeem voor goedkeuring van overuren.",
-              "painpoint": "Geen mogelijkheid om overuren en extra prestaties te registreren"
+              "id": "mogelijkheid_om_overuren_en_extra_prestaties_te_registreren_3",
+              "text": "Er is een geautomatiseerd systeem voor goedkeuring van overuren.",
+              "painpoint": "Mogelijkheid om overuren en extra prestaties te registreren"
             },
             {
-              "id": "tijdregistratie_en_uurroosters_geen_duidelijke_rapportage_over_werkuren_en_inzetbaarheid_1",
-              "text": "Geen dashboard met overzicht van gewerkte uren per maand of schooljaar.",
-              "painpoint": "Geen duidelijke rapportage over werkuren en inzetbaarheid"
+              "id": "duidelijke_rapportage_over_werkuren_en_inzetbaarheid_1",
+              "text": "Er is een dashboard met overzicht van gewerkte uren per maand of schooljaar.",
+              "painpoint": "Duidelijke rapportage over werkuren en inzetbaarheid"
             },
             {
-              "id": "tijdregistratie_en_uurroosters_geen_duidelijke_rapportage_over_werkuren_en_inzetbaarheid_2",
-              "text": "Moeilijk om een historiek van werkbelasting en contractuele inzetbaarheid op te bouwen.",
-              "painpoint": "Geen duidelijke rapportage over werkuren en inzetbaarheid"
+              "id": "duidelijke_rapportage_over_werkuren_en_inzetbaarheid_2",
+              "text": "Er wordt een historiek bijgehouden van werkbelasting en contractuele inzetbaarheid.",
+              "painpoint": "Duidelijke rapportage over werkuren en inzetbaarheid"
             },
             {
-              "id": "tijdregistratie_en_uurroosters_geen_duidelijke_rapportage_over_werkuren_en_inzetbaarheid_3",
-              "text": "HR en directie hebben geen geautomatiseerde rapporten over inzetbaarheid.",
-              "painpoint": "Geen duidelijke rapportage over werkuren en inzetbaarheid"
+              "id": "duidelijke_rapportage_over_werkuren_en_inzetbaarheid_3",
+              "text": "HR en directie hebben geautomatiseerde rapporten over inzetbaarheid.",
+              "painpoint": "Duidelijke rapportage over werkuren en inzetbaarheid"
             }
           ]
         },
         {
-          "id": "loon_en_financi_le_administratie",
+          "id": "loon_en_financile_administratie",
           "name": "Loon- en Financiële Administratie",
           "statements": [
             {
-              "id": "loon_en_financi_le_administratie_geen_digitaal_overzicht_van_loonfiches_1",
-              "text": "Personeelsleden moeten loonfiches per post ontvangen of apart aanvragen.",
-              "painpoint": "Geen digitaal overzicht van loonfiches"
+              "id": "digitaal_overzicht_van_loonfiches_en_fiscale_documenten_1",
+              "text": "Personeelsleden kunnen hun loonfiches digitaal raadplegen.",
+              "painpoint": "Digitaal overzicht van loonfiches en fiscale documenten"
             },
             {
-              "id": "loon_en_financi_le_administratie_geen_digitaal_overzicht_van_loonfiches_2",
-              "text": "Geen centraal digitaal archief waar medewerkers hun fiscale attesten kunnen terugvinden.",
-              "painpoint": "Geen digitaal overzicht van loonfiches"
+              "id": "digitaal_overzicht_van_loonfiches_en_fiscale_documenten_2",
+              "text": "Er is een centraal digitaal archief waar medewerkers hun fiscale attesten kunnen terugvinden.",
+              "painpoint": "Digitaal overzicht van loonfiches en fiscale documenten"
             },
             {
-              "id": "loon_en_financi_le_administratie_geen_digitaal_overzicht_van_loonfiches_3",
-              "text": "HR moet vaak looninformatie manueel verstrekken bij vragen.",
-              "painpoint": "Geen digitaal overzicht van loonfiches"
+              "id": "digitaal_overzicht_van_loonfiches_en_fiscale_documenten_3",
+              "text": "HR kan looninformatie automatisch verstrekken bij vragen.",
+              "painpoint": "Digitaal overzicht van loonfiches en fiscale documenten"
             },
             {
-              "id": "loon_en_financi_le_administratie_geen_mogelijkheid_om_onkostenvergoedingen_digitaal_in_te_dienen_1",
-              "text": "Personeelsleden moeten kilometervergoeding of terugbetalingen van aankopen via e-mail of papier aanvragen.",
-              "painpoint": "Geen mogelijkheid om onkostenvergoedingen digitaal in te dienen"
+              "id": "mogelijkheid_om_onkostenvergoedingen_digitaal_in_te_dienen_1",
+              "text": "Personeelsleden kunnen kilometervergoeding of terugbetalingen van aankopen digitaal aanvragen.",
+              "painpoint": "Mogelijkheid om onkostenvergoedingen digitaal in te dienen"
             },
             {
-              "id": "loon_en_financi_le_administratie_geen_mogelijkheid_om_onkostenvergoedingen_digitaal_in_te_dienen_2",
-              "text": "HR moet manueel berekenen en verwerken welke onkosten vergoed worden.",
-              "painpoint": "Geen mogelijkheid om onkostenvergoedingen digitaal in te dienen"
+              "id": "mogelijkheid_om_onkostenvergoedingen_digitaal_in_te_dienen_2",
+              "text": "HR kan automatisch berekenen en verwerken welke onkosten vergoed worden.",
+              "painpoint": "Mogelijkheid om onkostenvergoedingen digitaal in te dienen"
             },
             {
-              "id": "loon_en_financi_le_administratie_geen_mogelijkheid_om_onkostenvergoedingen_digitaal_in_te_dienen_3",
-              "text": "Geen geautomatiseerd goedkeuringsproces voor declaraties.",
-              "painpoint": "Geen mogelijkheid om onkostenvergoedingen digitaal in te dienen"
+              "id": "mogelijkheid_om_onkostenvergoedingen_digitaal_in_te_dienen_3",
+              "text": "Er is een geautomatiseerd goedkeuringsproces voor declaraties.",
+              "painpoint": "Mogelijkheid om onkostenvergoedingen digitaal in te dienen"
             },
             {
-              "id": "loon_en_financi_le_administratie_geen_duidelijk_overzicht_van_loongegevens_en_premies_1",
-              "text": "Personeelsleden kunnen niet digitaal nagaan hoeveel zij verdienen en hoe hun loon is opgebouwd.",
-              "painpoint": "Geen duidelijk overzicht van loongegevens en premies"
+              "id": "duidelijk_overzicht_van_loongegevens_en_premies_1",
+              "text": "Personeelsleden kunnen digitaal nagaan hoeveel zij verdienen en hoe hun loon is opgebouwd.",
+              "painpoint": "Duidelijk overzicht van loongegevens en premies"
             },
             {
-              "id": "loon_en_financi_le_administratie_geen_duidelijk_overzicht_van_loongegevens_en_premies_2",
-              "text": "Geen overzicht van opgebouwde anciënniteit en toekomstige loonsverhogingen.",
-              "painpoint": "Geen duidelijk overzicht van loongegevens en premies"
+              "id": "duidelijk_overzicht_van_loongegevens_en_premies_2",
+              "text": "Er is een overzicht van opgebouwde anciënniteit en toekomstige loonsverhogingen.",
+              "painpoint": "Duidelijk overzicht van loongegevens en premies"
             },
             {
-              "id": "loon_en_financi_le_administratie_geen_duidelijk_overzicht_van_loongegevens_en_premies_3",
-              "text": "Moeilijk om in te schatten welke premies of extra vergoedingen een personeelslid kan krijgen.",
-              "painpoint": "Geen duidelijk overzicht van loongegevens en premies"
+              "id": "duidelijk_overzicht_van_loongegevens_en_premies_3",
+              "text": "Medewerkers kunnen eenvoudig inzien welke premies of extra vergoedingen ze kunnen krijgen.",
+              "painpoint": "Duidelijk overzicht van loongegevens en premies"
             }
           ]
         },
@@ -939,49 +939,49 @@
           "name": "Professionele Ontwikkeling en Evaluatie",
           "statements": [
             {
-              "id": "professionele_ontwikkeling_en_evaluatie_geen_overzicht_van_gevolgde_opleidingen_1",
-              "text": "Personeelsleden moeten zelf hun gevolgde opleidingen bijhouden.",
-              "painpoint": "Geen overzicht van gevolgde opleidingen"
+              "id": "overzicht_van_gevolgde_opleidingen_en_nascholingen_1",
+              "text": "Personeelsleden hebben een digitaal overzicht van hun gevolgde opleidingen.",
+              "painpoint": "Overzicht van gevolgde opleidingen en nascholingen"
             },
             {
-              "id": "professionele_ontwikkeling_en_evaluatie_geen_overzicht_van_gevolgde_opleidingen_2",
-              "text": "HR en directie hebben geen centraal overzicht van professionele ontwikkeling per personeelslid.",
-              "painpoint": "Geen overzicht van gevolgde opleidingen"
+              "id": "overzicht_van_gevolgde_opleidingen_en_nascholingen_2",
+              "text": "HR en directie hebben een centraal overzicht van professionele ontwikkeling per personeelslid.",
+              "painpoint": "Overzicht van gevolgde opleidingen en nascholingen"
             },
             {
-              "id": "professionele_ontwikkeling_en_evaluatie_geen_overzicht_van_gevolgde_opleidingen_3",
-              "text": "Geen mogelijkheid om verplichte nascholingen automatisch te tracken.",
-              "painpoint": "Geen overzicht van gevolgde opleidingen"
+              "id": "overzicht_van_gevolgde_opleidingen_en_nascholingen_3",
+              "text": "Verplichte nascholingen worden automatisch getrackt.",
+              "painpoint": "Overzicht van gevolgde opleidingen en nascholingen"
             },
             {
-              "id": "professionele_ontwikkeling_en_evaluatie_geen_mogelijkheid_om_zich_digitaal_in_te_schrijven_voor_vormingen_1",
-              "text": "Personeelsleden moeten opleidingen handmatig aanvragen via e-mail.",
-              "painpoint": "Geen mogelijkheid om zich digitaal in te schrijven voor vormingen"
+              "id": "mogelijkheid_om_zich_digitaal_in_te_schrijven_voor_vormingen_1",
+              "text": "Personeelsleden kunnen opleidingen digitaal aanvragen.",
+              "painpoint": "Mogelijkheid om zich digitaal in te schrijven voor vormingen"
             },
             {
-              "id": "professionele_ontwikkeling_en_evaluatie_geen_mogelijkheid_om_zich_digitaal_in_te_schrijven_voor_vormingen_2",
-              "text": "Geen digitaal overzicht van beschikbare bijscholingen of verplichte vormingen.",
-              "painpoint": "Geen mogelijkheid om zich digitaal in te schrijven voor vormingen"
+              "id": "mogelijkheid_om_zich_digitaal_in_te_schrijven_voor_vormingen_2",
+              "text": "Er is een digitaal overzicht van beschikbare bijscholingen of verplichte vormingen.",
+              "painpoint": "Mogelijkheid om zich digitaal in te schrijven voor vormingen"
             },
             {
-              "id": "professionele_ontwikkeling_en_evaluatie_geen_mogelijkheid_om_zich_digitaal_in_te_schrijven_voor_vormingen_3",
-              "text": "HR heeft geen geautomatiseerd systeem om inschrijvingen te beheren.",
-              "painpoint": "Geen mogelijkheid om zich digitaal in te schrijven voor vormingen"
+              "id": "mogelijkheid_om_zich_digitaal_in_te_schrijven_voor_vormingen_3",
+              "text": "HR heeft een geautomatiseerd systeem om inschrijvingen te beheren.",
+              "painpoint": "Mogelijkheid om zich digitaal in te schrijven voor vormingen"
             },
             {
-              "id": "professionele_ontwikkeling_en_evaluatie_geen_digitaal_dossier_met_evaluaties_1",
-              "text": "Personeelsleden kunnen hun functioneringsgesprekken en feedback niet eenvoudig raadplegen.",
-              "painpoint": "Geen digitaal dossier met evaluaties"
+              "id": "digitaal_dossier_met_evaluaties_en_functioneringsgesprekken_1",
+              "text": "Personeelsleden kunnen hun functioneringsgesprekken en feedback eenvoudig raadplegen.",
+              "painpoint": "Digitaal dossier met evaluaties en functioneringsgesprekken"
             },
             {
-              "id": "professionele_ontwikkeling_en_evaluatie_geen_digitaal_dossier_met_evaluaties_2",
-              "text": "HR en directie kunnen moeilijk bijhouden welke personeelsleden al geëvalueerd zijn.",
-              "painpoint": "Geen digitaal dossier met evaluaties"
+              "id": "digitaal_dossier_met_evaluaties_en_functioneringsgesprekken_2",
+              "text": "HR en directie kunnen bijhouden welke personeelsleden al geëvalueerd zijn.",
+              "painpoint": "Digitaal dossier met evaluaties en functioneringsgesprekken"
             },
             {
-              "id": "professionele_ontwikkeling_en_evaluatie_geen_digitaal_dossier_met_evaluaties_3",
-              "text": "Geen automatische opvolging van actiepunten uit evaluaties.",
-              "painpoint": "Geen digitaal dossier met evaluaties"
+              "id": "digitaal_dossier_met_evaluaties_en_functioneringsgesprekken_3",
+              "text": "Er is automatische opvolging van actiepunten uit evaluaties.",
+              "painpoint": "Digitaal dossier met evaluaties en functioneringsgesprekken"
             }
           ]
         },
@@ -990,34 +990,34 @@
           "name": "Mobiliteit en Loopbaanbeheer",
           "statements": [
             {
-              "id": "mobiliteit_en_loopbaanbeheer_geen_toegang_tot_interne_vacatures_1",
-              "text": "Personeelsleden weten niet welke interne vacatures openstaan binnen de scholengroep.",
-              "painpoint": "Geen toegang tot interne vacatures"
+              "id": "toegang_tot_interne_vacatures_en_mobiliteitsmogelijkheden_1",
+              "text": "Personeelsleden weten welke interne vacatures openstaan binnen de scholengroep.",
+              "painpoint": "Toegang tot interne vacatures en mobiliteitsmogelijkheden"
             },
             {
-              "id": "mobiliteit_en_loopbaanbeheer_geen_toegang_tot_interne_vacatures_2",
-              "text": "Geen mogelijkheid om intern te solliciteren voor een andere functie.",
-              "painpoint": "Geen toegang tot interne vacatures"
+              "id": "toegang_tot_interne_vacatures_en_mobiliteitsmogelijkheden_2",
+              "text": "Er is mogelijkheid om intern te solliciteren voor een andere functie.",
+              "painpoint": "Toegang tot interne vacatures en mobiliteitsmogelijkheden"
             },
             {
-              "id": "mobiliteit_en_loopbaanbeheer_geen_toegang_tot_interne_vacatures_3",
-              "text": "HR kan moeilijk nagaan welke personeelsleden geïnteresseerd zijn in interne mobiliteit.",
-              "painpoint": "Geen toegang tot interne vacatures"
+              "id": "toegang_tot_interne_vacatures_en_mobiliteitsmogelijkheden_3",
+              "text": "HR kan nagaan welke personeelsleden geïnteresseerd zijn in interne mobiliteit.",
+              "painpoint": "Toegang tot interne vacatures en mobiliteitsmogelijkheden"
             },
             {
-              "id": "mobiliteit_en_loopbaanbeheer_geen_inzicht_in_loopbaanontwikkeling_1",
-              "text": "Personeelsleden weten niet hoe hun loopbaantraject binnen de scholengroep eruitziet.",
-              "painpoint": "Geen inzicht in loopbaanontwikkeling"
+              "id": "inzicht_in_loopbaanontwikkeling_en_ancinniteit_1",
+              "text": "Personeelsleden weten hoe hun loopbaantraject binnen de scholengroep eruitziet.",
+              "painpoint": "Inzicht in loopbaanontwikkeling en anciënniteit"
             },
             {
-              "id": "mobiliteit_en_loopbaanbeheer_geen_inzicht_in_loopbaanontwikkeling_2",
-              "text": "Geen overzicht van opgebouwde anciënniteit en rechten op verlof en bonussen.",
-              "painpoint": "Geen inzicht in loopbaanontwikkeling"
+              "id": "inzicht_in_loopbaanontwikkeling_en_ancinniteit_2",
+              "text": "Er is een overzicht van opgebouwde anciënniteit en rechten op verlof en bonussen.",
+              "painpoint": "Inzicht in loopbaanontwikkeling en anciënniteit"
             },
             {
-              "id": "mobiliteit_en_loopbaanbeheer_geen_inzicht_in_loopbaanontwikkeling_3",
-              "text": "HR moet handmatig loopbaanpaden en doorgroeimogelijkheden communiceren.",
-              "painpoint": "Geen inzicht in loopbaanontwikkeling"
+              "id": "inzicht_in_loopbaanontwikkeling_en_ancinniteit_3",
+              "text": "HR kan loopbaanpaden en doorgroeimogelijkheden digitaal communiceren.",
+              "painpoint": "Inzicht in loopbaanontwikkeling en anciënniteit"
             }
           ]
         },
@@ -1026,34 +1026,34 @@
           "name": "Communicatie en Feedback",
           "statements": [
             {
-              "id": "communicatie_en_feedback_moeilijke_en_trage_communicatie_over_hr_zaken_1",
-              "text": "Personeelsleden krijgen belangrijke HR-updates via e-mail zonder centrale opslag.",
-              "painpoint": "Moeilijke en trage communicatie over HR-zaken"
+              "id": "efficinte_communicatie_over_hrzaken_1",
+              "text": "Personeelsleden krijgen belangrijke HR-updates via een centraal platform met duidelijke opslag.",
+              "painpoint": "Efficiënte communicatie over HR-zaken"
             },
             {
-              "id": "communicatie_en_feedback_moeilijke_en_trage_communicatie_over_hr_zaken_2",
-              "text": "Geen gestandaardiseerde communicatiekanalen voor HR-zaken.",
-              "painpoint": "Moeilijke en trage communicatie over HR-zaken"
+              "id": "efficinte_communicatie_over_hrzaken_2",
+              "text": "Er zijn gestandaardiseerde communicatiekanalen voor HR-zaken.",
+              "painpoint": "Efficiënte communicatie over HR-zaken"
             },
             {
-              "id": "communicatie_en_feedback_moeilijke_en_trage_communicatie_over_hr_zaken_3",
-              "text": "Medewerkers moeten handmatig op zoek naar beleidsdocumenten en richtlijnen.",
-              "painpoint": "Moeilijke en trage communicatie over HR-zaken"
+              "id": "efficinte_communicatie_over_hrzaken_3",
+              "text": "Medewerkers hebben eenvoudig toegang tot beleidsdocumenten en richtlijnen.",
+              "painpoint": "Efficiënte communicatie over HR-zaken"
             },
             {
-              "id": "communicatie_en_feedback_geen_digitaal_ticketsysteem_voor_hr_vragen_1",
-              "text": "HR ontvangt vragen via e-mail en telefoon, wat inefficiënt is.",
-              "painpoint": "Geen digitaal ticketsysteem voor HR-vragen"
+              "id": "digitaal_ticketsysteem_voor_hrvragen_1",
+              "text": "HR ontvangt vragen via een gestructureerd ticketsysteem.",
+              "painpoint": "Digitaal ticketsysteem voor HR-vragen"
             },
             {
-              "id": "communicatie_en_feedback_geen_digitaal_ticketsysteem_voor_hr_vragen_2",
-              "text": "Personeelsleden hebben geen overzicht van ingediende HR-vragen en statussen.",
-              "painpoint": "Geen digitaal ticketsysteem voor HR-vragen"
+              "id": "digitaal_ticketsysteem_voor_hrvragen_2",
+              "text": "Personeelsleden hebben een overzicht van ingediende HR-vragen en statussen.",
+              "painpoint": "Digitaal ticketsysteem voor HR-vragen"
             },
             {
-              "id": "communicatie_en_feedback_geen_digitaal_ticketsysteem_voor_hr_vragen_3",
-              "text": "Geen systeem voor automatische beantwoording van veelgestelde vragen.",
-              "painpoint": "Geen digitaal ticketsysteem voor HR-vragen"
+              "id": "digitaal_ticketsysteem_voor_hrvragen_3",
+              "text": "Er is een systeem voor automatische beantwoording van veelgestelde vragen.",
+              "painpoint": "Digitaal ticketsysteem voor HR-vragen"
             }
           ]
         }
